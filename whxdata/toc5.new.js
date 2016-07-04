@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"book","name":"Principi e descrizione generale","key":"toc6","url":"OpMan/OpMan_RH_IT/Principi_e_descrizione_generale-.htm"},{"type":"item","name":"Struttura del menu","url":"OpMan/OpMan_RH_IT/Struttura_del_menu-.htm"},{"type":"item","name":"Segnalazione di guasti e guida","url":"OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm"},{"type":"item","name":"Guida","url":"OpMan/OpMan_RH_IT/Guida-.htm"},{"type":"book","name":"Elementi e convenzioni dell'interfaccia utente","key":"toc7","url":"OpMan/OpMan_RH_IT/Elementi_e_convenzioni_dell_interfaccia_utente-.htm"},{"type":"item","name":"Modalità di navigazione","url":"OpMan/OpMan_RH_IT/Modalit_di_navigazione-k2b.htm"},{"type":"item","name":"Selezione della modalità di carico","url":"OpMan/OpMan_RH_IT/Selezione_della_modalit_di_carico-6xc.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

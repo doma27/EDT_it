@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc.js\"  name=\"Riferimenti e impostazioni della macchina EDT\" url=\"OpMan/OpMan_RH_IT/Riferimenti_e_impostazioni_della_macchina_EDT-.htm\"><item name=\"Posizioni e direzioni negative e positive di spostamento\" url=\"OpMan/OpMan_RH_IT/Posizioni_e_direzioni_negative_e_positive_di_spostamento-.htm\" /></data>";

@@ -1,0 +1,2162 @@
+﻿<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="FrameName" value="bsscright">
+  <param name="SiteType" value="index">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Abilitato">
+    <param name="Name" value="Indicatori#IX_Abilitato">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Indicatori-.htm#IX_Abilitato">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Accelerazione">
+    <param name="Name" value="Indicatori#IX_Accelerazione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Indicatori-.htm#IX_Accelerazione">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="accensione">
+    <param name="Name" value="Accensione e spegnimento#IX_accensione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_e_spegnimento-.htm#IX_accensione">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_accensione_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_accensione_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Accensione e spegnimento">
+    <param name="Name" value="Accensione e spegnimento">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_e_spegnimento-.htm">
+    <param name="Name" value="Emergenza / Operazioni di sicurezza#IX_Accensione_e_spegnimento_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Emergenza_Operazioni_di_sicurezza-.htm#IX_Accensione_e_spegnimento_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="albero cavo">
+    <param name="Name" value="Panoramica dell'hardware della macchina EDT#IX_albero_cavo">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Panoramica_dell_hardware_della_macchina_EDT-.htm#IX_albero_cavo">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Alimentazione accesa">
+    <param name="Name" value="Iconografia#IX_Alimentazione_accesa">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia2-.htm#IX_Alimentazione_accesa">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Allarme">
+    <param name="Name" value="Indicatori#IX_Allarme">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Indicatori-.htm#IX_Allarme">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ambiente della macchina">
+    <param name="Name" value="Ambiente della macchina">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Ambiente_della_macchina-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="armadi d'alimentazione">
+    <param name="Name" value="Armadi elettrici#IX_armadi_d_alimentazione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Armadi_elettrici-.htm#IX_armadi_d_alimentazione">
+    <param name="Name" value="Armadi elettrici#IX_armadi_d_alimentazione_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Armadi_elettrici-.htm#IX_armadi_d_alimentazione_1">
+    <param name="Name" value="Armadi elettrici#IX_armadi_d_alimentazione_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Armadi_elettrici-.htm#IX_armadi_d_alimentazione_2">
+    <param name="Name" value="Accensione della macchina EDT#IX_armadi_d_alimentazione_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_della_macchina_EDT-.htm#IX_armadi_d_alimentazione_3">
+    <param name="Name" value="Emergenza / Operazioni di sicurezza#IX_armadi_d_alimentazione_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Emergenza_Operazioni_di_sicurezza-.htm#IX_armadi_d_alimentazione_4">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="armadi di distribuzione">
+    <param name="Name" value="Accensione della macchina EDT#IX_armadi_di_distribuzione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_della_macchina_EDT-.htm#IX_armadi_di_distribuzione">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Armadi elettrici">
+    <param name="Name" value="Armadi elettrici">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Armadi_elettrici-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="armadio">
+    <param name="Name" value="Armadi elettrici#IX_armadio">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Armadi_elettrici-.htm#IX_armadio">
+    <param name="Name" value="Armadi elettrici#IX_armadio_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Armadi_elettrici-.htm#IX_armadio_1">
+    <param name="Name" value="Armadi elettrici#IX_armadio_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Armadi_elettrici-.htm#IX_armadio_2">
+    <param name="Name" value="Accensione della macchina EDT#IX_armadio_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_della_macchina_EDT-.htm#IX_armadio_3">
+    <param name="Name" value="Spegnimento della macchina EDT#IX_armadio_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Spegnimento_della_macchina_EDT-.htm#IX_armadio_4">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="armadio di trasmissione">
+    <param name="Name" value="Armadi elettrici#IX_armadio_di_trasmissione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Armadi_elettrici-.htm#IX_armadio_di_trasmissione">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Arretramento totale servocomando">
+    <param name="Name" value="Iconografia#IX_Arretramento_totale">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia2-.htm#IX_Arretramento_totale">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Attivazione manuale">
+    <param name="Name" value="Attivazione manuale">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Attivazione_manuale-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Aumento">
+    <param name="Name" value="Iconografia#IX_Aumento">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia2-.htm#IX_Aumento">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="avanzamento del servomotore">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_avanzamento_del">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_avanzamento_del">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Avvertenze">
+    <param name="Name" value="Convenzioni utilizzate nel manuale#IX_Avvertenze">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Convenzioni_utilizzate_nel_manuale-.htm#IX_Avvertenze">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="base">
+    <param name="Name" value="Manipolatore cilindro#IX_base">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Manipolatore_cilindro-.htm#IX_base">
+    <param name="Name" value="Manipolatore cilindro#IX_base_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Manipolatore_cilindro-.htm#IX_base_1">
+    <param name="Name" value="Riferimenti e impostazioni della macchina EDT#IX_base_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Riferimenti_e_impostazioni_della_macchina_EDT-.htm#IX_base_2">
+    <param name="Name" value="Posizioni e direzioni negative e positive di spostamento#IX_base_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Posizioni_e_direzioni_negative_e_positive_di_spostamento-.htm#IX_base_3">
+    <param name="Name" value="Schema (P&amp;ID)#IX_base_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Schema_P_ID-.htm#IX_base_4">
+    <param name="Name" value="Flusso inverso#IX_base_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Flusso_inverso-.htm#IX_base_5">
+    <param name="Name" value="I parametri di rugosità sono definiti nella norma ISO 4287#IX_base_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/I_parametri_di_rugosit_sono_definiti_nella_norma_ISO_4287-zte.htm#IX_base_6">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="base della macchina">
+    <param name="Name" value="Posizioni e direzioni negative e positive di spostamento#IX_base_della_macchina">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Posizioni_e_direzioni_negative_e_positive_di_spostamento-.htm#IX_base_della_macchina">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="bloccato">
+    <param name="Name" value="Estrazione dei fumi#IX_bloccato">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Estrazione_dei_fumi-.htm#IX_bloccato">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="BLU">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_BLU">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_BLU">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="bracci meccanici">
+    <param name="Name" value="Stazioni di zigrinatura#IX_bracci_meccanici">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura-.htm#IX_bracci_meccanici">
+    <param name="Name" value="Armadi elettrici#IX_bracci_meccanici_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Armadi_elettrici-.htm#IX_bracci_meccanici_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="braccio asservito">
+    <param name="Name" value="Stazioni di zigrinatura#IX_braccio_asservito">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura-.htm#IX_braccio_asservito">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="calibratura">
+    <param name="Name" value="Struttura del menu#IX_calibratura">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Struttura_del_menu-.htm#IX_calibratura">
+    <param name="Name" value="Riferimenti e impostazioni della macchina EDT#IX_calibratura_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Riferimenti_e_impostazioni_della_macchina_EDT-.htm#IX_calibratura_1">
+    <param name="Name" value="Riferimenti e impostazioni della macchina EDT#IX_calibratura_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Riferimenti_e_impostazioni_della_macchina_EDT-.htm#IX_calibratura_2">
+    <param name="Name" value="Misurazione della zigrinatura sulla superficie del cilindro#IX_calibratura_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Misurazione_della_zigrinatura_sulla_superficie_del_cilindro-.htm#IX_calibratura_3">
+    <param name="Name" value="Rilevamenti statistici#IX_calibratura_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Rilevamenti_statistici-.htm#IX_calibratura_4">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="canali di estrazione dei fumo">
+    <param name="Name" value="Estrazione dei fumi#IX_canali_di_estrazione_dei">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Estrazione_dei_fumi-.htm#IX_canali_di_estrazione_dei">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="cappa per il fumo">
+    <param name="Name" value="Requisiti della modalità semiautomatica#IX_cappa_per_il_fumo">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Requisiti_della_modalit_semiautomatica-wcd.htm#IX_cappa_per_il_fumo">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="caricatore soft">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_caricatore_soft">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_caricatore_soft">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_caricatore_soft_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_caricatore_soft_1">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_caricatore_soft_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_caricatore_soft_2">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_caricatore_soft_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_caricatore_soft_3">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="carico/scarico">
+    <param name="Name" value="Selezione della modalità di carico#IX_carico_scarico">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Selezione_della_modalit_di_carico-6xc.htm#IX_carico_scarico">
+    <param name="Name" value="Selezione della modalità di carico#IX_carico_scarico_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Selezione_della_modalit_di_carico-6xc.htm#IX_carico_scarico_1">
+    <param name="Name" value="Riferimenti e impostazioni della macchina EDT#IX_carico_scarico_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Riferimenti_e_impostazioni_della_macchina_EDT-.htm#IX_carico_scarico_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="caselle di input">
+    <param name="Name" value="Colorazione dei numeri#IX_caselle_di_input">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Colorazione_dei_numeri-.htm#IX_caselle_di_input">
+    <param name="Name" value="Colorazione dei numeri#IX_caselle_di_input_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Colorazione_dei_numeri-.htm#IX_caselle_di_input_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="cicli di flusso inverso">
+    <param name="Name" value="Flusso inverso#IX_cicli_di_flusso_inverso">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Flusso_inverso-.htm#IX_cicli_di_flusso_inverso">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ciclo di filtraggio">
+    <param name="Name" value="Modalità manuale e automatica#Avvia_il_ciclo_di">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale_e_automatica-0jc.htm#Avvia_il_ciclo_di">
+    <param name="Name" value="Trasferimento / riempimento#IX_ciclo_di_filtraggio_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Trasferimento_riempimento-.htm#IX_ciclo_di_filtraggio_1">
+    <param name="Name" value="Flusso inverso#IX_ciclo_di_filtraggio_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Flusso_inverso-.htm#IX_ciclo_di_filtraggio_2">
+    <param name="Name" value="Miscela#IX_ciclo_di_filtraggio_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Miscela-.htm#IX_ciclo_di_filtraggio_3">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ciclo di funzionamento normale quotidiano">
+    <param name="Name" value="Ciclo di funzionamento normale quotidiano">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Ciclo_di_funzionamento_normale_quotidiano-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="cilindri a rete">
+    <param name="Name" value="Flusso inverso#IX_cilindri_a_rete">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Flusso_inverso-.htm#IX_cilindri_a_rete">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="cilindro rettificato">
+    <param name="Name" value="Descrizione generale della macchina EDT#IX_cilindro_rettificato">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Descrizione_generale_della_macchina_EDT-.htm#IX_cilindro_rettificato">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Circonferenza">
+    <param name="Name" value="Rilevamento tipico del cilindro#IX_Circonferenza">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Rilevamento_tipico_del_cilindro-.htm#IX_Circonferenza">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="circuito aperto">
+    <param name="Name" value="Descrizione generale della macchina EDT#IX_circuito_aperto">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Descrizione_generale_della_macchina_EDT-.htm#IX_circuito_aperto">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Codice d'errore">
+    <param name="Name" value="Indicatori#IX_Codice_d_errore">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Indicatori-.htm#IX_Codice_d_errore">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="comandi elettrici">
+    <param name="Name" value="Impianto del fluido dielettrico#IX_comandi_elettrici">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_del_fluido_dielettrico-.htm#IX_comandi_elettrici">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="comandi mobili utente">
+    <param name="Name" value="Console operatore#IX_comandi_mobili_utente">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Console_operatore-.htm#IX_comandi_mobili_utente">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="comando mobile">
+    <param name="Name" value="Console operatore#IX_comando_mobile">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Console_operatore-.htm#IX_comando_mobile">
+    <param name="Name" value="Console operatore#IX_comando_mobile_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Console_operatore-.htm#IX_comando_mobile_1">
+    <param name="Name" value="Indicatori#IX_comando_mobile_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Indicatori-.htm#IX_comando_mobile_2">
+    <param name="Name" value="Funzionamento della modalità console#IX_comando_mobile_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_modalit_console-s3c.htm#IX_comando_mobile_3">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_comando_mobile_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_comando_mobile_4">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_comando_mobile_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_comando_mobile_5">
+    <param name="Name" value="Utilizzo del comando mobile">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Utilizzo_del_comando_mobile-.htm">
+    <param name="Name" value="Utilizzo del comando mobile#IX_comando_mobile_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Utilizzo_del_comando_mobile-.htm#IX_comando_mobile_7">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_comando_mobile_9">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_comando_mobile_9">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_comando_mobile_10">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_comando_mobile_10">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_comando_mobile_11">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_comando_mobile_11">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="componenti fissi">
+    <param name="Name" value="Disposizione dello schermo#IX_componenti_fissi">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Disposizione_dello_schermo-.htm#IX_componenti_fissi">
+    <param name="Name" value="Disposizione dello schermo#IX_componenti_fissi_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Disposizione_dello_schermo-.htm#IX_componenti_fissi_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="console operatore">
+    <param name="Name" value="Manipolatore cilindro#IX_console_operatore">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Manipolatore_cilindro-.htm#IX_console_operatore">
+    <param name="Name" value="Console operatore#IX_console_operatore_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Console_operatore-.htm#IX_console_operatore_1">
+    <param name="Name" value="Console operatore#IX_console_operatore_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Console_operatore-.htm#IX_console_operatore_2">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_console_operatore_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_console_operatore_3">
+    <param name="Name" value="Pannello di controllo dell'impianto dielettrico e pannello sinottico#IX_console_operatore_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pannello_di_controllo_dell_impianto_dielettrico_e_pannello_sinottico-.htm#IX_console_operatore_4">
+    <param name="Name" value="Pannello di controllo dell'impianto dielettrico e pannello sinottico#IX_console_operatore_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pannello_di_controllo_dell_impianto_dielettrico_e_pannello_sinottico-.htm#IX_console_operatore_5">
+    <param name="Name" value="Modalità manuale#IX_console_operatore_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale-djb.htm#IX_console_operatore_6">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="console utente">
+    <param name="Name" value="Console operatore#IX_console_utente">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Console_operatore-.htm#IX_console_utente">
+    <param name="Name" value="Console operatore#IX_console_utente_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Console_operatore-.htm#IX_console_utente_1">
+    <param name="Name" value="Accensione della macchina EDT#IX_console_utente_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_della_macchina_EDT-.htm#IX_console_utente_2">
+    <param name="Name" value="Riferimenti e impostazioni della macchina EDT#IX_console_utente_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Riferimenti_e_impostazioni_della_macchina_EDT-.htm#IX_console_utente_3">
+    <param name="Name" value="Ciclo di funzionamento normale quotidiano#IX_console_utente_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Ciclo_di_funzionamento_normale_quotidiano-.htm#IX_console_utente_4">
+    <param name="Name" value="Funzionamento automatico#IX_console_utente_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_automatico-.htm#IX_console_utente_5">
+    <param name="Name" value="Requisiti della modalità semiautomatica#IX_console_utente_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Requisiti_della_modalit_semiautomatica-wcd.htm#IX_console_utente_6">
+    <param name="Name" value="Sequenza semiautomatica#IX_console_utente_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Sequenza_semiautomatica-.htm#IX_console_utente_7">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="controlli interni">
+    <param name="Name" value="Accensione e spegnimento#IX_controlli_interni">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_e_spegnimento-.htm#IX_controlli_interni">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="controlli visivi">
+    <param name="Name" value="Verifiche quotidiane di manutenzione#IX_controlli_visivi">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Verifiche_quotidiane_di_manutenzione-.htm#IX_controlli_visivi">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="contropunta">
+    <param name="Name" value="Introduzione#IX_contropunta">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Introduzione-.htm#IX_contropunta">
+    <param name="Name" value="Panoramica dell'hardware della macchina EDT#IX_contropunta_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Panoramica_dell_hardware_della_macchina_EDT-.htm#IX_contropunta_1">
+    <param name="Name" value="Panoramica dell'hardware della macchina EDT#IX_contropunta_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Panoramica_dell_hardware_della_macchina_EDT-.htm#IX_contropunta_2">
+    <param name="Name" value="Panoramica dell'hardware della macchina EDT#IX_contropunta_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Panoramica_dell_hardware_della_macchina_EDT-.htm#IX_contropunta_3">
+    <param name="Name" value="Panoramica dell'hardware della macchina EDT#IX_contropunta_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Panoramica_dell_hardware_della_macchina_EDT-.htm#IX_contropunta_4">
+    <param name="Name" value="Manipolatore cilindro#IX_contropunta_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Manipolatore_cilindro-.htm#IX_contropunta_5">
+    <param name="Name" value="Posizioni e direzioni negative e positive di spostamento#IX_contropunta_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Posizioni_e_direzioni_negative_e_positive_di_spostamento-.htm#IX_contropunta_6">
+    <param name="Name" value="Posizioni e direzioni negative e positive di spostamento#IX_contropunta_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Posizioni_e_direzioni_negative_e_positive_di_spostamento-.htm#IX_contropunta_7">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_contropunta_8">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_contropunta_8">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_contropunta_9">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_contropunta_9">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_contropunta_10">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_contropunta_10">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_contropunta_11">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_contropunta_11">
+    <param name="Name" value="Requisiti della modalità semiautomatica#IX_contropunta_12">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Requisiti_della_modalit_semiautomatica-wcd.htm#IX_contropunta_12">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Convenzioni">
+    <param name="Name" value="Convenzioni utilizzate nel manuale">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Convenzioni_utilizzate_nel_manuale-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="cuscinetti portanti">
+    <param name="Name" value="Manipolatore cilindro#IX_cuscinetti_portanti">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Manipolatore_cilindro-.htm#IX_cuscinetti_portanti">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Denominazione del programma">
+    <param name="Name" value="Iconografia#IX_Denominazione_del">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia2-.htm#IX_Denominazione_del">
+    <param name="Name" value="Postambolo automatico#IX_Denominazione_del_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Postambolo_automatico-.htm#IX_Denominazione_del_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="depositi di grafite">
+    <param name="Name" value="Stazioni di zigrinatura#IX_depositi_di_grafite">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura1-.htm#IX_depositi_di_grafite">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Diametro cilindro">
+    <param name="Name" value="Iconografia#IX_Diametro_cilindro">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia1-.htm#IX_Diametro_cilindro">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="direzione negativa (-)">
+    <param name="Name" value="Posizioni e direzioni negative e positive di spostamento#IX_direzione_negativa">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Posizioni_e_direzioni_negative_e_positive_di_spostamento-.htm#IX_direzione_negativa">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="disegno tecnico">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_disegno_tecnico">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_disegno_tecnico">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="dispositivo portatile di misurazione">
+    <param name="Name" value="Misurazione della zigrinatura sulla superficie del cilindro#IX_dispositivo_portatile_di">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Misurazione_della_zigrinatura_sulla_superficie_del_cilindro-.htm#IX_dispositivo_portatile_di">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Disposizione dello schermo">
+    <param name="Name" value="Disposizione dello schermo">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Disposizione_dello_schermo-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="distribuzione uniforme">
+    <param name="Name" value="I parametri di rugosità sono definiti nella norma ISO 4287#IX_distribuzione_uniforme">
+    <param name="Local" value="OpMan/OpMan_RH_IT/I_parametri_di_rugosit_sono_definiti_nella_norma_ISO_4287-zte.htm#IX_distribuzione_uniforme">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="drive di settore">
+    <param name="Name" value="Armadi elettrici#IX_drive_di_settore">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Armadi_elettrici-.htm#IX_drive_di_settore">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="durata della vita produttiva">
+    <param name="Name" value="Misurazione della zigrinatura sulla superficie del cilindro#IX_durata_della_vita">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Misurazione_della_zigrinatura_sulla_superficie_del_cilindro-.htm#IX_durata_della_vita">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Durata totale prevista">
+    <param name="Name" value="Iconografia#IX_Durata_totale_prevista">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia2-.htm#IX_Durata_totale_prevista">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="editor del tipo di cilindro">
+    <param name="Name" value="Iconografia#IX_editor_del_tipo_di">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia-.htm#IX_editor_del_tipo_di">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="elenco dei messaggi">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_elenco_dei_messaggi">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_elenco_dei_messaggi">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_elenco_dei_messaggi_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_elenco_dei_messaggi_1">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_elenco_dei_messaggi_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_elenco_dei_messaggi_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="elettricità di rete">
+    <param name="Name" value="Armadi elettrici#IX_elettricit_di_rete">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Armadi_elettrici-.htm#IX_elettricit_di_rete">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="elettrodi">
+    <param name="Name" value="Descrizione generale della macchina EDT#IX_elettrodi">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Descrizione_generale_della_macchina_EDT-.htm#IX_elettrodi">
+    <param name="Name" value="Stazioni di zigrinatura#IX_elettrodi_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura-.htm#IX_elettrodi_1">
+    <param name="Name" value="Stazioni di zigrinatura#IX_elettrodi_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura-.htm#IX_elettrodi_2">
+    <param name="Name" value="Armadi elettrici#IX_elettrodi_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Armadi_elettrici-.htm#IX_elettrodi_3">
+    <param name="Name" value="Armadi elettrici#IX_elettrodi_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Armadi_elettrici-.htm#IX_elettrodi_4">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_elettrodi_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_elettrodi_5">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_elettrodi_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_elettrodi_6">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_elettrodi_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_elettrodi_7">
+    <param name="Name" value="Stazioni di zigrinatura#IX_elettrodi_8">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura1-.htm#IX_elettrodi_8">
+    <param name="Name" value="Stazioni di zigrinatura#IX_elettrodi_9">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura1-.htm#IX_elettrodi_9">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="elettroerosione">
+    <param name="Name" value="Scopo del manuale#IX_elettroerosione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Scopo_del_manuale-.htm#IX_elettroerosione">
+    <param name="Name" value="Descrizione generale della macchina EDT#IX_elettroerosione_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Descrizione_generale_della_macchina_EDT-.htm#IX_elettroerosione_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Emergenza / Operazioni di sicurezza">
+    <param name="Name" value="Emergenza / Operazioni di sicurezza">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Emergenza_Operazioni_di_sicurezza-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Esecuzione automatica del programma">
+    <param name="Name" value="Struttura del menu#IX_Esecuzione_automatica">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Struttura_del_menu-.htm#IX_Esecuzione_automatica">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="esecuzione del programma">
+    <param name="Name" value="Scopo del manuale#IX_esecuzione_del_programma">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Scopo_del_manuale-.htm#IX_esecuzione_del_programma">
+    <param name="Name" value="Struttura del menu#IX_Esecuzione_del_programma_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Struttura_del_menu-.htm#IX_Esecuzione_del_programma_1">
+    <param name="Name" value="Struttura del menu#IX_Esecuzione_del_programma_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Struttura_del_menu-.htm#IX_Esecuzione_del_programma_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Esecuzione semiautomatica del programma">
+    <param name="Name" value="Struttura del menu#IX_Esecuzione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Struttura_del_menu-.htm#IX_Esecuzione">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Estrazione dei fumi">
+    <param name="Name" value="Introduzione#IX_Estrazione_dei_fumi">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Introduzione-.htm#IX_Estrazione_dei_fumi">
+    <param name="Name" value="Estrazione dei fumi">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Estrazione_dei_fumi-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="fase di preimpostazione">
+    <param name="Name" value="Pronto#IX_fase_di_preimpostazione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pronto-.htm#IX_fase_di_preimpostazione">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="fasi fisse">
+    <param name="Name" value="Sequenza semiautomatica#IX_fasi_fisse">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Sequenza_semiautomatica-.htm#IX_fasi_fisse">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="feedback della posizione">
+    <param name="Name" value="Riferimenti e impostazioni della macchina EDT#IX_feedback_della_posizione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Riferimenti_e_impostazioni_della_macchina_EDT-.htm#IX_feedback_della_posizione">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="fermi">
+    <param name="Name" value="Panoramica dell'hardware della macchina EDT#IX_fermi">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Panoramica_dell_hardware_della_macchina_EDT-.htm#IX_fermi">
+    <param name="Name" value="Manipolatore cilindro#IX_fermi_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Manipolatore_cilindro-.htm#IX_fermi_1">
+    <param name="Name" value="Manipolatore cilindro#IX_fermi_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Manipolatore_cilindro-.htm#IX_fermi_2">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_fermi_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_fermi_3">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="fermo">
+    <param name="Name" value="Panoramica dell'hardware della macchina EDT#IX_fermo">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Panoramica_dell_hardware_della_macchina_EDT-.htm#IX_fermo">
+    <param name="Name" value="Manipolatore cilindro#IX_fermo_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Manipolatore_cilindro-.htm#IX_fermo_1">
+    <param name="Name" value="Riferimenti e impostazioni della macchina EDT#IX_fermo_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Riferimenti_e_impostazioni_della_macchina_EDT-.htm#IX_fermo_2">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_Fermo_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_Fermo_3">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_Fermo_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_Fermo_4">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_fermo_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_fermo_5">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_Fermo_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_Fermo_6">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_fermo_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_fermo_7">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_fermo_8">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_fermo_8">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_fermo_9">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_fermo_9">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_Fermo_10">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_Fermo_10">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_fermo_11">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_fermo_11">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_fermo_12">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_fermo_12">
+    <param name="Name" value="Fermi#IX_fermo_13">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Fermi-.htm#IX_fermo_13">
+    <param name="Name" value="Fermi#IX_fermo_14">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Fermi-.htm#IX_fermo_14">
+    <param name="Name" value="Fermi#IX_fermo_15">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Fermi-.htm#IX_fermo_15">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="fiamme libere">
+    <param name="Name" value="Impianto dielettrico#IX_fiamme_libere">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_dielettrico-.htm#IX_fiamme_libere">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="filtraggio">
+    <param name="Name" value="Impianto del fluido dielettrico#IX_filtraggio">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_del_fluido_dielettrico-.htm#IX_filtraggio">
+    <param name="Name" value="Sistema antincendio#IX_filtraggio_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Sistema_antincendio-.htm#IX_filtraggio_1">
+    <param name="Name" value="Impianto dielettrico#IX_filtraggio_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_dielettrico-.htm#IX_filtraggio_2">
+    <param name="Name" value="Impianto dielettrico#IX_filtraggio_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_dielettrico-.htm#IX_filtraggio_3">
+    <param name="Name" value="Impianto dielettrico#IX_filtraggio_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_dielettrico-.htm#IX_filtraggio_4">
+    <param name="Name" value="Pannello di controllo dell'impianto dielettrico e pannello sinottico#IX_filtraggio_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pannello_di_controllo_dell_impianto_dielettrico_e_pannello_sinottico-.htm#IX_filtraggio_5">
+    <param name="Name" value="Schema (P&amp;ID)#IX_filtraggio_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Schema_P_ID-.htm#IX_filtraggio_6">
+    <param name="Name" value="Modalità manuale e automatica#IX_filtraggio_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale_e_automatica-0jc.htm#IX_filtraggio_7">
+    <param name="Name" value="Modalità manuale e automatica#Avvia_il_ciclo_di">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale_e_automatica-0jc.htm#Avvia_il_ciclo_di">
+    <param name="Name" value="Modalità automatica#IX_filtraggio_9">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_automatica-lrb.htm#IX_filtraggio_9">
+    <param name="Name" value="Operazioni di filtraggio">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Operazioni_di_filtraggio-.htm">
+    <param name="Name" value="Flusso inverso#IX_filtraggio_11">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Flusso_inverso-.htm#IX_filtraggio_11">
+    <param name="Name" value="Flusso inverso#IX_filtraggio_12">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Flusso_inverso-.htm#IX_filtraggio_12">
+    <param name="Name" value="Pronto#IX_filtraggio_13">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pronto-.htm#IX_filtraggio_13">
+    <param name="Name" value="Gestione dello scambio dei serbatoi#IX_filtraggio_14">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Gestione_dello_scambio_dei_serbatoi-.htm#IX_filtraggio_14">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="filtri">
+    <param name="Name" value="Introduzione#IX_filtri">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Introduzione-.htm#IX_filtri">
+    <param name="Name" value="Filtro#IX_filtri_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Filtro-.htm#IX_filtri_1">
+    <param name="Name" value="Filtro#IX_filtri_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Filtro-.htm#IX_filtri_2">
+    <param name="Name" value="Flusso inverso#IX_filtri_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Flusso_inverso-.htm#IX_filtri_3">
+    <param name="Name" value="Flusso inverso#IX_filtri_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Flusso_inverso-.htm#IX_filtri_4">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Flusso inverso">
+    <param name="Name" value="Flusso inverso">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Flusso_inverso-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="giornata">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_giornata">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_giornata">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_giornata_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_giornata_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Guasto">
+    <param name="Name" value="Indicatori#IX_Guasto">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Indicatori-.htm#IX_Guasto">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="guida">
+    <param name="Name" value="Ambiti esclusi dal manuale#IX_guida">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Ambiti_esclusi_dal_manuale-.htm#IX_guida">
+    <param name="Name" value="Ambiti esclusi dal manuale#IX_guida_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Ambiti_esclusi_dal_manuale-.htm#IX_guida_1">
+    <param name="Name" value="Ambiti esclusi dal manuale#IX_guida_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Ambiti_esclusi_dal_manuale-.htm#IX_guida_2">
+    <param name="Name" value="Console operatore#IX_guida_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Console_operatore-.htm#IX_guida_3">
+    <param name="Name" value="Segnalazione di guasti e guida">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_guida_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_guida_5">
+    <param name="Name" value="Guida#IX_guida_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Guida-.htm#IX_guida_6">
+    <param name="Name" value="Guida#IX_guida_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Guida-.htm#IX_guida_7">
+    <param name="Name" value="Guida#IX_guida_8">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Guida-.htm#IX_guida_8">
+    <param name="Name" value="Guida#IX_guida_9">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Guida-.htm#IX_guida_9">
+    <param name="Name" value="Guida#IX_guida_10">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Guida-.htm#IX_guida_10">
+    <param name="Name" value="Modalità manuale e automatica#IX_guida_11">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale_e_automatica-0jc.htm#IX_guida_11">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="guida a schermo">
+    <param name="Name" value="Guida#IX_guida_a_schermo">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Guida-.htm#IX_guida_a_schermo">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="hardware">
+    <param name="Name" value="Panoramica dell'hardware della macchina EDT">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Panoramica_dell_hardware_della_macchina_EDT-.htm">
+    <param name="Name" value="Panoramica dell'hardware della macchina EDT#IX_hardware_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Panoramica_dell_hardware_della_macchina_EDT-.htm#IX_hardware_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Iconografia">
+    <param name="Name" value="Visualizzazione del carico, ricarico e scarico#IX_Iconografia">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Visualizzazione_del_carico_ricarico_e_scarico-.htm#IX_Iconografia">
+    <param name="Name" value="Iconografia">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia1-.htm">
+    <param name="Name" value="Iconografia">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia2-.htm">
+    <param name="Name" value="Iconografia">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia3-.htm">
+    <param name="Name" value="Postambolo automatico#IX_Iconografia_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Postambolo_automatico-.htm#IX_Iconografia_4">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ID operatore">
+    <param name="Name" value="Iconografia#IX_ID_operatore">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia1-.htm#IX_ID_operatore">
+    <param name="Name" value="Iconografia#IX_ID_operatore_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia3-.htm#IX_ID_operatore_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Immagazzina">
+    <param name="Name" value="Introduzione#IX_Immagazzina">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Introduzione-.htm#IX_Immagazzina">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="impianto">
+    <param name="Name" value="Stazioni di zigrinatura#IX_impianto">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura-.htm#IX_impianto">
+    <param name="Name" value="Impianto del fluido dielettrico#IX_impianto_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_del_fluido_dielettrico-.htm#IX_impianto_1">
+    <param name="Name" value="Impianto del fluido dielettrico#IX_impianto_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_del_fluido_dielettrico-.htm#IX_impianto_2">
+    <param name="Name" value="Emergenza / Operazioni di sicurezza#IX_impianto_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Emergenza_Operazioni_di_sicurezza-.htm#IX_impianto_3">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_impianto_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_impianto_4">
+    <param name="Name" value="Funzionamento illustrato#IX_impianto_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_illustrato-.htm#IX_impianto_5">
+    <param name="Name" value="Sistema antincendio#IX_impianto_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Sistema_antincendio-.htm#IX_impianto_6">
+    <param name="Name" value="Attivazione manuale#IX_impianto_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Attivazione_manuale-.htm#IX_impianto_7">
+    <param name="Name" value="Impianto dielettrico#IX_impianto_8">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_dielettrico-.htm#IX_impianto_8">
+    <param name="Name" value="Impianto dielettrico#La_figura_sopra_indica_i">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_dielettrico-.htm#La_figura_sopra_indica_i">
+    <param name="Name" value="Pannello di controllo dell'impianto dielettrico e pannello sinottico">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pannello_di_controllo_dell_impianto_dielettrico_e_pannello_sinottico-.htm">
+    <param name="Name" value="Pannello di controllo dell'impianto dielettrico e pannello sinottico#IX_impianto_11">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pannello_di_controllo_dell_impianto_dielettrico_e_pannello_sinottico-.htm#IX_impianto_11">
+    <param name="Name" value="Pannello di controllo dell'impianto dielettrico e pannello sinottico#IX_impianto_12">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pannello_di_controllo_dell_impianto_dielettrico_e_pannello_sinottico-.htm#IX_impianto_12">
+    <param name="Name" value="Schema (P&amp;ID)#IX_impianto_13">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Schema_P_ID-.htm#IX_impianto_13">
+    <param name="Name" value="Operazioni di filtraggio#IX_impianto_14">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Operazioni_di_filtraggio-.htm#IX_impianto_14">
+    <param name="Name" value="Trasferimento / riempimento#IX_impianto_15">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Trasferimento_riempimento-.htm#IX_impianto_15">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Impianto del fluido dielettrico">
+    <param name="Name" value="Impianto del fluido dielettrico">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_del_fluido_dielettrico-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Impianto dielettrico">
+    <param name="Name" value="Introduzione#IX_Impianto_dielettrico">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Introduzione-.htm#IX_Impianto_dielettrico">
+    <param name="Name" value="Impianto dielettrico">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_dielettrico-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="in uso">
+    <param name="Name" value="Accensione della macchina EDT#IX_in_uso">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_della_macchina_EDT-.htm#IX_in_uso">
+    <param name="Name" value="Accensione della macchina EDT#IX_in_uso_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_della_macchina_EDT-.htm#IX_in_uso_1">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_in_uso_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_in_uso_2">
+    <param name="Name" value="Impianto dielettrico#IX_in_uso_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_dielettrico-.htm#IX_in_uso_3">
+    <param name="Name" value="Pronto#IX_in_uso_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pronto-.htm#IX_in_uso_4">
+    <param name="Name" value="Gestione dello scambio dei serbatoi#IX_in_uso_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Gestione_dello_scambio_dei_serbatoi-.htm#IX_in_uso_5">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Indicatore di alta tensione">
+    <param name="Name" value="Iconografia#IX_Indicatore_di_alta">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia2-.htm#IX_Indicatore_di_alta">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Indicatori">
+    <param name="Name" value="Indicatori">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Indicatori-.htm">
+    <param name="Name" value="Indicatori#IX_Indicatori_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Indicatori-.htm#IX_Indicatori_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="indicatori di input">
+    <param name="Name" value="Accensione della macchina EDT#IX_indicatori_di_input">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_della_macchina_EDT-.htm#IX_indicatori_di_input">
+    <param name="Name" value="Emergenza / Operazioni di sicurezza#IX_indicatori_di_input_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Emergenza_Operazioni_di_sicurezza-.htm#IX_indicatori_di_input_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="indicatori luminosi di output">
+    <param name="Name" value="Accensione della macchina EDT#IX_indicatori_luminosi_di">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_della_macchina_EDT-.htm#IX_indicatori_luminosi_di">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="interfaccia operatore">
+    <param name="Name" value="Scopo del manuale#IX_interfaccia_operatore">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Scopo_del_manuale-.htm#IX_interfaccia_operatore">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Interfaccia utente">
+    <param name="Name" value="Interfaccia utente">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Interfaccia_utente-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="interrotta">
+    <param name="Name" value="Emergenza / Operazioni di sicurezza#IX_interrotta">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Emergenza_Operazioni_di_sicurezza-.htm#IX_interrotta">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="interruttore a chiave">
+    <param name="Name" value="Impianto dielettrico#IX_interruttore_a_chiave">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_dielettrico-.htm#IX_interruttore_a_chiave">
+    <param name="Name" value="Modalità manuale#IX_interruttore_a_chiave_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale-djb.htm#IX_interruttore_a_chiave_1">
+    <param name="Name" value="Modalità manuale#IX_interruttore_a_chiave_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale-djb.htm#IX_interruttore_a_chiave_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="interruttore di emergenza con vetro">
+    <param name="Name" value="Attivazione manuale#IX_interruttore_di">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Attivazione_manuale-.htm#IX_interruttore_di">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="interruttori di fine corsa">
+    <param name="Name" value="Manipolatore cilindro#IX_interruttori_di_fine">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Manipolatore_cilindro-.htm#IX_interruttori_di_fine">
+    <param name="Name" value="Indicatori#IX_interruttori_di_fine_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Indicatori-.htm#IX_interruttori_di_fine_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="interventi di manutenzione ordinaria">
+    <param name="Name" value="Ambiti esclusi dal manuale#IX_interventi_di">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Ambiti_esclusi_dal_manuale-.htm#IX_interventi_di">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ispezioni">
+    <param name="Name" value="Verifiche quotidiane di manutenzione#IX_ispezioni">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Verifiche_quotidiane_di_manutenzione-.htm#IX_ispezioni">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="kit di misurazione">
+    <param name="Name" value="Rilevamenti statistici#IX_kit_di_misurazione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Rilevamenti_statistici-.htm#IX_kit_di_misurazione">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="lato destro">
+    <param name="Name" value="Panoramica dell'hardware della macchina EDT#IX_lato_destro">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Panoramica_dell_hardware_della_macchina_EDT-.htm#IX_lato_destro">
+    <param name="Name" value="Altre convenzioni dell'interfaccia utente#IX_lato_destro_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Altre_convenzioni_dell_interfaccia_utente-.htm#IX_lato_destro_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="letture">
+    <param name="Name" value="Rilevamento tipico del cilindro#IX_letture">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Rilevamento_tipico_del_cilindro-.htm#IX_letture">
+    <param name="Name" value="Rilevamento tipico del cilindro#IX_letture_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Rilevamento_tipico_del_cilindro-.htm#IX_letture_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="limiti di operatività">
+    <param name="Name" value="Manipolatore cilindro#IX_limiti_di_operativit">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Manipolatore_cilindro-.htm#IX_limiti_di_operativit">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="linea media">
+    <param name="Name" value="I parametri di rugosità sono definiti nella norma ISO 4287#IX_linea_media">
+    <param name="Local" value="OpMan/OpMan_RH_IT/I_parametri_di_rugosit_sono_definiti_nella_norma_ISO_4287-zte.htm#IX_linea_media">
+    <param name="Name" value="I parametri di rugosità sono definiti nella norma ISO 4287#IX_linea_media_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/I_parametri_di_rugosit_sono_definiti_nella_norma_ISO_4287-zte.htm#IX_linea_media_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="lingua">
+    <param name="Name" value="Struttura del menu#IX_lingua">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Struttura_del_menu-.htm#IX_lingua">
+    <param name="Name" value="Struttura del menu#IX_lingua_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Struttura_del_menu-.htm#IX_lingua_1">
+    <param name="Name" value="Guida#IX_lingua_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Guida-.htm#IX_lingua_2">
+    <param name="Name" value="Guida#IX_lingua_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Guida-.htm#IX_lingua_3">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="lubrificati">
+    <param name="Name" value="Manipolatore cilindro#IX_lubrificati">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Manipolatore_cilindro-.htm#IX_lubrificati">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="mancato avvio">
+    <param name="Name" value="Emergenza / Operazioni di sicurezza#IX_mancato_avvio">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Emergenza_Operazioni_di_sicurezza-.htm#IX_mancato_avvio">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="mandrino">
+    <param name="Name" value="Panoramica dell'hardware della macchina EDT#IX_mandrino">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Panoramica_dell_hardware_della_macchina_EDT-.htm#IX_mandrino">
+    <param name="Name" value="Armadi elettrici#IX_mandrino_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Armadi_elettrici-.htm#IX_mandrino_1">
+    <param name="Name" value="Iconografia#IX_mandrino_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia2-.htm#IX_mandrino_2">
+    <param name="Name" value="Iconografia#IX_mandrino_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia2-.htm#IX_mandrino_3">
+    <param name="Name" value="Requisiti della modalità semiautomatica#IX_mandrino_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Requisiti_della_modalit_semiautomatica-wcd.htm#IX_mandrino_4">
+    <param name="Name" value="Requisiti della modalità semiautomatica#IX_mandrino_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Requisiti_della_modalit_semiautomatica-wcd.htm#IX_mandrino_5">
+    <param name="Name" value="Funzionamento illustrato#IX_mandrino_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_illustrato-.htm#IX_mandrino_6">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_mandrino_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_mandrino_7">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="manicotti">
+    <param name="Name" value="Stazioni di zigrinatura#IX_manicotti">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura1-.htm#IX_manicotti">
+    <param name="Name" value="Stazioni di zigrinatura#IX_manicotti_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura1-.htm#IX_manicotti_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="maniglia da tirare manualmente">
+    <param name="Name" value="Attivazione manuale#IX_maniglia_da_tirare">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Attivazione_manuale-.htm#IX_maniglia_da_tirare">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Manipolatore cilindro">
+    <param name="Name" value="Introduzione#IX_Manipolatore_cilindro">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Introduzione-.htm#IX_Manipolatore_cilindro">
+    <param name="Name" value="Manipolatore cilindro">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Manipolatore_cilindro-.htm">
+    <param name="Name" value="Manipolatore cilindro#IX_Manipolatore_cilindro_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Manipolatore_cilindro-.htm#IX_Manipolatore_cilindro_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="manuale di manutenzione">
+    <param name="Name" value="Utilizzo del pulsante di emergenza#IX_manuale_di_manutenzione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Utilizzo_del_pulsante_di_emergenza-.htm#IX_manuale_di_manutenzione">
+    <param name="Name" value="Pulsanti di selezione#IX_manuale_di_manutenzione_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pulsanti_di_selezione-.htm#IX_manuale_di_manutenzione_1">
+    <param name="Name" value="Riferimenti e impostazioni della macchina EDT#IX_manuale_di_manutenzione_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Riferimenti_e_impostazioni_della_macchina_EDT-.htm#IX_manuale_di_manutenzione_2">
+    <param name="Name" value="Sistema dielettrico#IX_manuale_di_manutenzione_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Sistema_dielettrico-.htm#IX_manuale_di_manutenzione_3">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="manutenzione">
+    <param name="Name" value="Impianto del fluido dielettrico#IX_manutenzione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_del_fluido_dielettrico-.htm#IX_manutenzione">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="mese">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_mese">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_mese">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_mese_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_mese_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="messaggi di errore">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_messaggi_di_errore">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_messaggi_di_errore">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="messaggi di stato">
+    <param name="Name" value="Disposizione dello schermo#IX_messaggi_di_stato">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Disposizione_dello_schermo-.htm#IX_messaggi_di_stato">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_messaggi_di_stato_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_messaggi_di_stato_1">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_messaggi_di_stato_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_messaggi_di_stato_2">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_messaggi_di_stato_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_messaggi_di_stato_3">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_messaggi_di_stato_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_messaggi_di_stato_4">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_messaggi_di_stato_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_messaggi_di_stato_5">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="metallo bianco">
+    <param name="Name" value="Manipolatore cilindro#IX_metallo_bianco">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Manipolatore_cilindro-.htm#IX_metallo_bianco">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="miscelatori">
+    <param name="Name" value="Gestione dello scambio dei serbatoi#IX_miscelatori">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Gestione_dello_scambio_dei_serbatoi-.htm#IX_miscelatori">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Misurazione finale asimmetrica">
+    <param name="Name" value="Postambolo automatico#IX_Misurazione_finale">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Postambolo_automatico-.htm#IX_Misurazione_finale">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Misurazione finale del calcolo dei picchi">
+    <param name="Name" value="Postambolo automatico#IX_Misurazione_finale_del">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Postambolo_automatico-.htm#IX_Misurazione_finale_del">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Misurazione finale del diametro">
+    <param name="Name" value="Postambolo automatico#IX_Misurazione_finale_del_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Postambolo_automatico-.htm#IX_Misurazione_finale_del_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Misurazione finale dell'ondulazione">
+    <param name="Name" value="Postambolo automatico#IX_Misurazione_finale_dell">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Postambolo_automatico-.htm#IX_Misurazione_finale_dell">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Misurazione finale RA">
+    <param name="Name" value="Postambolo automatico#IX_Misurazione_finale_RA">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Postambolo_automatico-.htm#IX_Misurazione_finale_RA">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="misurazioni meccaniche">
+    <param name="Name" value="Misurazione della zigrinatura sulla superficie del cilindro#IX_misurazioni_meccaniche">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Misurazione_della_zigrinatura_sulla_superficie_del_cilindro-.htm#IX_misurazioni_meccaniche">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="modalità console">
+    <param name="Name" value="Indicatori#IX_modalit_console">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Indicatori-.htm#IX_modalit_console">
+    <param name="Name" value="Funzionamento della modalità console">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_modalit_console-s3c.htm">
+    <param name="Name" value="Funzionamento della modalità console#IX_modalit_console_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_modalit_console-s3c.htm#IX_modalit_console_2">
+    <param name="Name" value="Funzionamento della macchina in modalità console">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_modalit_console_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_modalit_console_4">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_modalit_console_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_modalit_console_5">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_modalit_console_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_modalit_console_6">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_modalit_console_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_modalit_console_7">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_modalit_console_8">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_modalit_console_8">
+    <param name="Name" value="Utilizzo del comando mobile#IX_modalit_console_9">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Utilizzo_del_comando_mobile-.htm#IX_modalit_console_9">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="modalità di carico">
+    <param name="Name" value="Selezione della modalità di carico">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Selezione_della_modalit_di_carico-6xc.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Modalità di navigazione">
+    <param name="Name" value="Modalità di navigazione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_di_navigazione-k2b.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="modalità manuale">
+    <param name="Name" value="Console operatore#IX_modalit_manuale">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Console_operatore-.htm#IX_modalit_manuale">
+    <param name="Name" value="Impianto dielettrico#IX_modalit_manuale_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_dielettrico-.htm#IX_modalit_manuale_1">
+    <param name="Name" value="Modalità manuale e automatica#IX_modalit_manuale_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale_e_automatica-0jc.htm#IX_modalit_manuale_2">
+    <param name="Name" value="Modalità manuale#IX_modalit_manuale_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale-djb.htm#IX_modalit_manuale_3">
+    <param name="Name" value="Modalità manuale#IX_modalit_manuale_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale-djb.htm#IX_modalit_manuale_4">
+    <param name="Name" value="Operazioni di filtraggio#IX_modalit_manuale_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Operazioni_di_filtraggio-.htm#IX_modalit_manuale_5">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="modalità Test">
+    <param name="Name" value="Struttura del menu#IX_modalit_Test">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Struttura_del_menu-.htm#IX_modalit_Test">
+    <param name="Name" value="Struttura del menu#IX_modalit_Test_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Struttura_del_menu-.htm#IX_modalit_Test_1">
+    <param name="Name" value="Struttura del menu#IX_modalit_Test_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Struttura_del_menu-.htm#IX_modalit_Test_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="motore di rotazione">
+    <param name="Name" value="Panoramica dell'hardware della macchina EDT#IX_motore_di_rotazione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Panoramica_dell_hardware_della_macchina_EDT-.htm#IX_motore_di_rotazione">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="mouse">
+    <param name="Name" value="Console operatore#IX_mouse">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Console_operatore-.htm#IX_mouse">
+    <param name="Name" value="Guida#IX_mouse_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Guida-.htm#IX_mouse_1">
+    <param name="Name" value="Modalità di navigazione#IX_mouse_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_di_navigazione-k2b.htm#IX_mouse_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="movimenti">
+    <param name="Name" value="Scopo del manuale#IX_movimenti">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Scopo_del_manuale-.htm#IX_movimenti">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_movimenti_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_movimenti_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="movimento alternativo avanti/indietro">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_movimento_alternativo">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_movimento_alternativo">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_movimento_alternativo_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_movimento_alternativo_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="non più in uso">
+    <param name="Name" value="Pronto#IX_non_pi_in_uso">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pronto-.htm#IX_non_pi_in_uso">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="olio">
+    <param name="Name" value="Introduzione#IX_olio">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Introduzione-.htm#IX_olio">
+    <param name="Name" value="Introduzione#IX_olio_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Introduzione-.htm#IX_olio_1">
+    <param name="Name" value="Descrizione generale della macchina EDT#IX_olio_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Descrizione_generale_della_macchina_EDT-.htm#IX_olio_2">
+    <param name="Name" value="Requisiti della modalità semiautomatica#IX_olio_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Requisiti_della_modalit_semiautomatica-wcd.htm#IX_olio_3">
+    <param name="Name" value="Impianto dielettrico#IX_olio_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_dielettrico-.htm#IX_olio_4">
+    <param name="Name" value="Modalità manuale e automatica#IX_olio_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale_e_automatica-0jc.htm#IX_olio_5">
+    <param name="Name" value="Modalità manuale#IX_olio_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale-djb.htm#IX_olio_6">
+    <param name="Name" value="Trasferimento / riempimento#IX_olio_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Trasferimento_riempimento-.htm#IX_olio_7">
+    <param name="Name" value="Trasferimento / riempimento#IX_olio_8">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Trasferimento_riempimento-.htm#IX_olio_8">
+    <param name="Name" value="Fermi#IX_olio_9">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Fermi-.htm#IX_olio_9">
+    <param name="Name" value="Fermi#IX_olio_10">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Fermi-.htm#IX_olio_10">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="olio dielettrico">
+    <param name="Name" value="Introduzione#IX_olio_dielettrico">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Introduzione-.htm#IX_olio_dielettrico">
+    <param name="Name" value="Descrizione generale della macchina EDT#IX_olio_dielettrico_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Descrizione_generale_della_macchina_EDT-.htm#IX_olio_dielettrico_1">
+    <param name="Name" value="Requisiti della modalità semiautomatica#IX_olio_dielettrico_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Requisiti_della_modalit_semiautomatica-wcd.htm#IX_olio_dielettrico_2">
+    <param name="Name" value="Modalità manuale e automatica#IX_olio_dielettrico_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale_e_automatica-0jc.htm#IX_olio_dielettrico_3">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="opzioni">
+    <param name="Name" value="Struttura del menu#IX_opzioni">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Struttura_del_menu-.htm#IX_opzioni">
+    <param name="Name" value="Iconografia#IX_opzioni_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia-.htm#IX_opzioni_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="pannello di controllo">
+    <param name="Name" value="Introduzione#IX_pannello_di_controllo">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Introduzione-.htm#IX_pannello_di_controllo">
+    <param name="Name" value="Funzionamento della modalità console#IX_pannello_di_controllo_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_modalit_console-s3c.htm#IX_pannello_di_controllo_1">
+    <param name="Name" value="Funzionamento illustrato#IX_pannello_di_controllo_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_illustrato-.htm#IX_pannello_di_controllo_2">
+    <param name="Name" value="Impianto dielettrico#IX_pannello_di_controllo_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_dielettrico-.htm#IX_pannello_di_controllo_3">
+    <param name="Name" value="Pannello di controllo dell'impianto dielettrico e pannello sinottico#IX_pannello_di_controllo_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pannello_di_controllo_dell_impianto_dielettrico_e_pannello_sinottico-.htm#IX_pannello_di_controllo_4">
+    <param name="Name" value="Pannello di controllo dell'impianto dielettrico e pannello sinottico#IX_pannello_di_controllo_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pannello_di_controllo_dell_impianto_dielettrico_e_pannello_sinottico-.htm#IX_pannello_di_controllo_5">
+    <param name="Name" value="Modalità manuale e automatica#IX_pannello_di_controllo_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale_e_automatica-0jc.htm#IX_pannello_di_controllo_6">
+    <param name="Name" value="Modalità automatica#IX_pannello_di_controllo_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_automatica-lrb.htm#IX_pannello_di_controllo_7">
+    <param name="Name" value="Flusso inverso#IX_pannello_di_controllo_8">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Flusso_inverso-.htm#IX_pannello_di_controllo_8">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="pannello sinottico">
+    <param name="Name" value="Impianto del fluido dielettrico#IX_pannello_sinottico">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_del_fluido_dielettrico-.htm#IX_pannello_sinottico">
+    <param name="Name" value="Impianto del fluido dielettrico#IX_pannello_sinottico_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_del_fluido_dielettrico-.htm#IX_pannello_sinottico_1">
+    <param name="Name" value="Impianto dielettrico#IX_pannello_sinottico_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_dielettrico-.htm#IX_pannello_sinottico_2">
+    <param name="Name" value="Pannello di controllo dell'impianto dielettrico e pannello sinottico">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pannello_di_controllo_dell_impianto_dielettrico_e_pannello_sinottico-.htm">
+    <param name="Name" value="Pannello di controllo dell'impianto dielettrico e pannello sinottico#IX_pannello_sinottico_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pannello_di_controllo_dell_impianto_dielettrico_e_pannello_sinottico-.htm#IX_pannello_sinottico_4">
+    <param name="Name" value="Pannello di controllo dell'impianto dielettrico e pannello sinottico#IX_pannello_sinottico_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pannello_di_controllo_dell_impianto_dielettrico_e_pannello_sinottico-.htm#IX_pannello_sinottico_5">
+    <param name="Name" value="Schema (P&amp;ID)#IX_pannello_sinottico_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Schema_P_ID-.htm#IX_pannello_sinottico_6">
+    <param name="Name" value="Schema (P&amp;ID)#IX_pannello_sinottico_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Schema_P_ID-.htm#IX_pannello_sinottico_7">
+    <param name="Name" value="Modalità manuale e automatica#IX_pannello_sinottico_8">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale_e_automatica-0jc.htm#IX_pannello_sinottico_8">
+    <param name="Name" value="Modalità manuale e automatica#IX_pannello_sinottico_9">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale_e_automatica-0jc.htm#IX_pannello_sinottico_9">
+    <param name="Name" value="Modalità manuale#IX_pannello_sinottico_10">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale-djb.htm#IX_pannello_sinottico_10">
+    <param name="Name" value="Flusso inverso#IX_pannello_sinottico_11">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Flusso_inverso-.htm#IX_pannello_sinottico_11">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="parametri">
+    <param name="Name" value="Scopo del manuale#IX_parametri">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Scopo_del_manuale-.htm#IX_parametri">
+    <param name="Name" value="Struttura del menu#IX_parametri_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Struttura_del_menu-.htm#IX_parametri_1">
+    <param name="Name" value="Sequenza semiautomatica#IX_parametri_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Sequenza_semiautomatica-.htm#IX_parametri_2">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_parametri_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_parametri_3">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_parametri_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_parametri_4">
+    <param name="Name" value="I parametri di rugosità sono definiti nella norma ISO 4287">
+    <param name="Local" value="OpMan/OpMan_RH_IT/I_parametri_di_rugosit_sono_definiti_nella_norma_ISO_4287-zte.htm">
+    <param name="Name" value="I parametri di rugosità sono definiti nella norma ISO 4287#IX_parametri_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/I_parametri_di_rugosit_sono_definiti_nella_norma_ISO_4287-zte.htm#IX_parametri_6">
+    <param name="Name" value="I parametri di rugosità sono definiti nella norma ISO 4287#IX_parametri_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/I_parametri_di_rugosit_sono_definiti_nella_norma_ISO_4287-zte.htm#IX_parametri_7">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="parametri di rugosità">
+    <param name="Name" value="I parametri di rugosità sono definiti nella norma ISO 4287">
+    <param name="Local" value="OpMan/OpMan_RH_IT/I_parametri_di_rugosit_sono_definiti_nella_norma_ISO_4287-zte.htm">
+    <param name="Name" value="I parametri di rugosità sono definiti nella norma ISO 4287#IX_parametri_di_rugosit_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/I_parametri_di_rugosit_sono_definiti_nella_norma_ISO_4287-zte.htm#IX_parametri_di_rugosit_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="parametri di zigrinatura">
+    <param name="Name" value="Scopo del manuale#IX_parametri_di_zigrinatura">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Scopo_del_manuale-.htm#IX_parametri_di_zigrinatura">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="passaggi">
+    <param name="Name" value="Ciclo di funzionamento normale quotidiano#IX_passaggi">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Ciclo_di_funzionamento_normale_quotidiano-.htm#IX_passaggi">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="pattini">
+    <param name="Name" value="Manipolatore cilindro#IX_pattini">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Manipolatore_cilindro-.htm#IX_pattini">
+    <param name="Name" value="Fermi#IX_pattini_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Fermi-.htm#IX_pattini_1">
+    <param name="Name" value="Fermi#IX_pattini_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Fermi-.htm#IX_pattini_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PAUSA">
+    <param name="Name" value="Sequenza semiautomatica#IX_PAUSA">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Sequenza_semiautomatica-.htm#IX_PAUSA">
+    <param name="Name" value="Sequenza semiautomatica#IX_PAUSA_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Sequenza_semiautomatica-.htm#IX_PAUSA_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="picchi per cm">
+    <param name="Name" value="I parametri di rugosità sono definiti nella norma ISO 4287#IX_picchi_per_cm">
+    <param name="Local" value="OpMan/OpMan_RH_IT/I_parametri_di_rugosit_sono_definiti_nella_norma_ISO_4287-zte.htm#IX_picchi_per_cm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="polarità">
+    <param name="Name" value="Funzionamento illustrato#IX_polarit">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_illustrato-.htm#IX_polarit">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_polarit_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_polarit_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="pompe">
+    <param name="Name" value="Introduzione#IX_pompe">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Introduzione-.htm#IX_pompe">
+    <param name="Name" value="Emergenza / Operazioni di sicurezza#IX_pompe_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Emergenza_Operazioni_di_sicurezza-.htm#IX_pompe_1">
+    <param name="Name" value="Pannello di controllo dell'impianto dielettrico e pannello sinottico#IX_pompe_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pannello_di_controllo_dell_impianto_dielettrico_e_pannello_sinottico-.htm#IX_pompe_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="porta USB">
+    <param name="Name" value="Console operatore#IX_porta_USB">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Console_operatore-.htm#IX_porta_USB">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="posizione di avvio">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_posizione_di_avvio">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_posizione_di_avvio">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="posizione finale">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_posizione_finale">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_posizione_finale">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="posizione iniziale">
+    <param name="Name" value="Funzionamento illustrato#IX_posizione_iniziale_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_illustrato-.htm#IX_posizione_iniziale_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Posizione iniziale servocomando">
+    <param name="Name" value="Iconografia#IX_Posizione_iniziale">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia2-.htm#IX_Posizione_iniziale">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Posizione target">
+    <param name="Name" value="Iconografia#IX_Posizione_target">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia2-.htm#IX_Posizione_target">
+    <param name="Name" value="Iconografia#IX_Posizione_target_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia2-.htm#IX_Posizione_target_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="posizioni fisiche">
+    <param name="Name" value="Indicatori#IX_posizioni_fisiche">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Indicatori-.htm#IX_posizioni_fisiche">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Postambolo">
+    <param name="Name" value="Postambolo automatico">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Postambolo_automatico-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="precauzioni">
+    <param name="Name" value="Convenzioni utilizzate nel manuale#IX_precauzioni">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Convenzioni_utilizzate_nel_manuale-.htm#IX_precauzioni">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="procedimento semiautomatico">
+    <param name="Name" value="Visualizzazione dei risultati#IX_procedimento">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Visualizzazione_dei_risultati-.htm#IX_procedimento">
+    <param name="Name" value="Sequenza semiautomatica#IX_procedimento_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Sequenza_semiautomatica-.htm#IX_procedimento_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="processo di zigrinatura">
+    <param name="Name" value="Stazioni di zigrinatura#IX_processo_di_zigrinatura">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura-.htm#IX_processo_di_zigrinatura">
+    <param name="Name" value="Impianto del fluido dielettrico#IX_processo_di_zigrinatura_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_del_fluido_dielettrico-.htm#IX_processo_di_zigrinatura_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="programma di carico del cilindro">
+    <param name="Name" value="Selezione della modalità di carico#IX_programma_di_carico_del">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Selezione_della_modalit_di_carico-6xc.htm#IX_programma_di_carico_del">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="PRONTO">
+    <param name="Name" value="Gestione dello scambio dei serbatoi#IX_PRONTO">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Gestione_dello_scambio_dei_serbatoi-.htm#IX_PRONTO">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Pulsante di commutazione">
+    <param name="Name" value="Modalità manuale e automatica#IX_Pulsante_di_commutazione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale_e_automatica-0jc.htm#IX_Pulsante_di_commutazione">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="pulsante per l'arresto d'emergenza">
+    <param name="Name" value="Accensione della macchina EDT#IX_pulsante_per_l_arresto_d">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_della_macchina_EDT-.htm#IX_pulsante_per_l_arresto_d">
+    <param name="Name" value="Emergenza / Operazioni di sicurezza#IX_pulsante_per_l_arresto_d_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Emergenza_Operazioni_di_sicurezza-.htm#IX_pulsante_per_l_arresto_d_1">
+    <param name="Name" value="Emergenza / Operazioni di sicurezza#IX_pulsante_per_l_arresto_d_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Emergenza_Operazioni_di_sicurezza-.htm#IX_pulsante_per_l_arresto_d_2">
+    <param name="Name" value="Utilizzo del pulsante di emergenza#IX_pulsante_per_l_arresto_d_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Utilizzo_del_pulsante_di_emergenza-.htm#IX_pulsante_per_l_arresto_d_3">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="pulsanti">
+    <param name="Name" value="Console operatore#IX_pulsanti">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Console_operatore-.htm#IX_pulsanti">
+    <param name="Name" value="Emergenza / Operazioni di sicurezza#IX_pulsanti_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Emergenza_Operazioni_di_sicurezza-.htm#IX_pulsanti_1">
+    <param name="Name" value="Emergenza / Operazioni di sicurezza#IX_pulsanti_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Emergenza_Operazioni_di_sicurezza-.htm#IX_pulsanti_2">
+    <param name="Name" value="Elementi e convenzioni dell'interfaccia utente#IX_pulsanti_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Elementi_e_convenzioni_dell_interfaccia_utente-.htm#IX_pulsanti_3">
+    <param name="Name" value="Pulsanti di selezione#IX_pulsanti_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pulsanti_di_selezione-.htm#IX_pulsanti_4">
+    <param name="Name" value="Pulsanti di selezione#IX_pulsanti_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pulsanti_di_selezione-.htm#IX_pulsanti_5">
+    <param name="Name" value="Pulsanti di selezione#IX_pulsanti_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pulsanti_di_selezione-.htm#IX_pulsanti_6">
+    <param name="Name" value="Pulsanti di selezione#IX_pulsanti_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pulsanti_di_selezione-.htm#IX_pulsanti_7">
+    <param name="Name" value="Pulsanti di selezione#IX_pulsanti_8">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pulsanti_di_selezione-.htm#IX_pulsanti_8">
+    <param name="Name" value="Pulsanti di selezione#IX_pulsanti_9">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pulsanti_di_selezione-.htm#IX_pulsanti_9">
+    <param name="Name" value="Indicatori#IX_pulsanti_10">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Indicatori-.htm#IX_pulsanti_10">
+    <param name="Name" value="Indicatori#IX_pulsanti_11">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Indicatori-.htm#IX_pulsanti_11">
+    <param name="Name" value="Funzionamento della modalità console#IX_pulsanti_12">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_modalit_console-s3c.htm#IX_pulsanti_12">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_pulsanti_13">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_pulsanti_13">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_pulsanti_14">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_pulsanti_14">
+    <param name="Name" value="Utilizzo del comando mobile#IX_pulsanti_15">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Utilizzo_del_comando_mobile-.htm#IX_pulsanti_15">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_pulsanti_17">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_pulsanti_17">
+    <param name="Name" value="Sequenza semiautomatica#IX_pulsanti_18">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Sequenza_semiautomatica-.htm#IX_pulsanti_18">
+    <param name="Name" value="Sequenza semiautomatica#IX_pulsanti_19">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Sequenza_semiautomatica-.htm#IX_pulsanti_19">
+    <param name="Name" value="Sequenza semiautomatica#IX_pulsanti_20">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Sequenza_semiautomatica-.htm#IX_pulsanti_20">
+    <param name="Name" value="Modalità manuale e automatica#IX_pulsanti_21">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale_e_automatica-0jc.htm#IX_pulsanti_21">
+    <param name="Name" value="Modalità manuale e automatica#IX_pulsanti_22">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale_e_automatica-0jc.htm#IX_pulsanti_22">
+    <param name="Name" value="Modalità manuale#IX_pulsanti_23">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale-djb.htm#IX_pulsanti_23">
+    <param name="Name" value="Modalità automatica#IX_pulsanti_24">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_automatica-lrb.htm#IX_pulsanti_24">
+    <param name="Name" value="Modalità automatica#IX_pulsanti_25">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_automatica-lrb.htm#IX_pulsanti_25">
+    <param name="Name" value="Miscela#IX_pulsanti_26">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Miscela-.htm#IX_pulsanti_26">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Pulsanti di selezione">
+    <param name="Name" value="Pulsanti di selezione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pulsanti_di_selezione-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="pulsanti direzionali">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_pulsanti_direzionali">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_pulsanti_direzionali">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Pulsanti per l'arresto d'emergenza con chiave">
+    <param name="Name" value="Emergenza / Operazioni di sicurezza#IX_Pulsanti_per_l_arresto_d_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Emergenza_Operazioni_di_sicurezza-.htm#IX_Pulsanti_per_l_arresto_d_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Pulsanti per l'arresto d'emergenza senza chiave">
+    <param name="Name" value="Emergenza / Operazioni di sicurezza#IX_Pulsanti_per_l_arresto_d">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Emergenza_Operazioni_di_sicurezza-.htm#IX_Pulsanti_per_l_arresto_d">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Pulsanti radio">
+    <param name="Name" value="Pulsanti di selezione#IX_Pulsanti_radio">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pulsanti_di_selezione-.htm#IX_Pulsanti_radio">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Punti di impostazione">
+    <param name="Name" value="Punti di impostazione semiautomatici">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="punti di misurazione">
+    <param name="Name" value="Rilevamento tipico del cilindro#IX_punti_di_misurazione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Rilevamento_tipico_del_cilindro-.htm#IX_punti_di_misurazione">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="punti di riferimento">
+    <param name="Name" value="Riferimenti e impostazioni della macchina EDT#IX_punti_di_riferimento">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Riferimenti_e_impostazioni_della_macchina_EDT-.htm#IX_punti_di_riferimento">
+    <param name="Name" value="Riferimenti e impostazioni della macchina EDT#IX_punti_di_riferimento_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Riferimenti_e_impostazioni_della_macchina_EDT-.htm#IX_punti_di_riferimento_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="punto esclamativo">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_punto_esclamativo">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_punto_esclamativo">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="requisiti">
+    <param name="Name" value="Iconografia#IX_requisiti">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia-.htm#IX_requisiti">
+    <param name="Name" value="Funzionamento automatico#IX_requisiti_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_automatico-.htm#IX_requisiti_1">
+    <param name="Name" value="Requisiti della modalità semiautomatica#IX_requisiti_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Requisiti_della_modalit_semiautomatica-wcd.htm#IX_requisiti_2">
+    <param name="Name" value="Requisiti della modalità semiautomatica#IX_requisiti_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Requisiti_della_modalit_semiautomatica-wcd.htm#IX_requisiti_3">
+    <param name="Name" value="Requisiti della modalità semiautomatica#IX_requisiti_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Requisiti_della_modalit_semiautomatica-wcd.htm#IX_requisiti_4">
+    <param name="Name" value="Sequenza semiautomatica#IX_requisiti_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Sequenza_semiautomatica-.htm#IX_requisiti_5">
+    <param name="Name" value="Modalità manuale#IX_requisiti_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale-djb.htm#IX_requisiti_6">
+    <param name="Name" value="Modalità manuale#IX_requisiti_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale-djb.htm#IX_requisiti_7">
+    <param name="Name" value="Modalità automatica#IX_requisiti_8">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_automatica-lrb.htm#IX_requisiti_8">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Reset">
+    <param name="Name" value="Indicatori#IX_Reset">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Indicatori-.htm#IX_Reset">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="riavviare">
+    <param name="Name" value="Utilizzo del pulsante di emergenza#IX_riavviare">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Utilizzo_del_pulsante_di_emergenza-.htm#IX_riavviare">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="riga fisica">
+    <param name="Name" value="Posizioni e direzioni negative e positive di spostamento#IX_riga_fisica">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Posizioni_e_direzioni_negative_e_positive_di_spostamento-.htm#IX_riga_fisica">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="righello">
+    <param name="Name" value="Riferimenti e impostazioni della macchina EDT#IX_righello">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Riferimenti_e_impostazioni_della_macchina_EDT-.htm#IX_righello">
+    <param name="Name" value="Posizioni e direzioni negative e positive di spostamento#IX_righello_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Posizioni_e_direzioni_negative_e_positive_di_spostamento-.htm#IX_righello_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Rilevamenti statistici">
+    <param name="Name" value="Rilevamenti statistici">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Rilevamenti_statistici-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Rilevamento">
+    <param name="Name" value="Rilevamento tipico del cilindro">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Rilevamento_tipico_del_cilindro-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="risultati">
+    <param name="Name" value="Visualizzazione dei risultati">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Visualizzazione_dei_risultati-.htm">
+    <param name="Name" value="Visualizzazione dei risultati#IX_risultati_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Visualizzazione_dei_risultati-.htm#IX_risultati_1">
+    <param name="Name" value="Rilevamento tipico del cilindro#IX_risultati_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Rilevamento_tipico_del_cilindro-.htm#IX_risultati_2">
+    <param name="Name" value="Rilevamento tipico del cilindro#IX_risultati_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Rilevamento_tipico_del_cilindro-.htm#IX_risultati_3">
+    <param name="Name" value="I parametri di rugosità sono definiti nella norma ISO 4287#IX_risultati_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/I_parametri_di_rugosit_sono_definiti_nella_norma_ISO_4287-zte.htm#IX_risultati_4">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Rsk">
+    <param name="Name" value="I parametri di rugosità sono definiti nella norma ISO 4287#IX_Rsk">
+    <param name="Local" value="OpMan/OpMan_RH_IT/I_parametri_di_rugosit_sono_definiti_nella_norma_ISO_4287-zte.htm#IX_Rsk">
+    <param name="Name" value="I parametri di rugosità sono definiti nella norma ISO 4287#IX_Rsk_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/I_parametri_di_rugosit_sono_definiti_nella_norma_ISO_4287-zte.htm#IX_Rsk_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Rugosità media">
+    <param name="Name" value="I parametri di rugosità sono definiti nella norma ISO 4287#IX_Rugosit_media">
+    <param name="Local" value="OpMan/OpMan_RH_IT/I_parametri_di_rugosit_sono_definiti_nella_norma_ISO_4287-zte.htm#IX_Rugosit_media">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Sala di controllo">
+    <param name="Name" value="Introduzione#IX_Sala_di_controllo">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Introduzione-.htm#IX_Sala_di_controllo">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="scambio del serbatoio">
+    <param name="Name" value="Modalità manuale e automatica#IX_scambio_del_serbatoio">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale_e_automatica-0jc.htm#IX_scambio_del_serbatoio">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Scarica">
+    <param name="Name" value="Iconografia#IX_Scarica">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia-.htm#IX_Scarica">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="scarico">
+    <param name="Name" value="Ciclo di funzionamento normale quotidiano#IX_scarico">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Ciclo_di_funzionamento_normale_quotidiano-.htm#IX_scarico">
+    <param name="Name" value="Visualizzazione del carico, ricarico e scarico">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Visualizzazione_del_carico_ricarico_e_scarico-.htm">
+    <param name="Name" value="Visualizzazione del carico, ricarico e scarico#IX_scarico_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Visualizzazione_del_carico_ricarico_e_scarico-.htm#IX_scarico_2">
+    <param name="Name" value="Visualizzazione del carico, ricarico e scarico#IX_scarico_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Visualizzazione_del_carico_ricarico_e_scarico-.htm#IX_scarico_3">
+    <param name="Name" value="Modalità manuale e automatica#IX_scarico_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale_e_automatica-0jc.htm#IX_scarico_4">
+    <param name="Name" value="Modalità manuale e automatica#IX_scarico_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale_e_automatica-0jc.htm#IX_scarico_5">
+    <param name="Name" value="Flusso inverso#IX_scarico_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Flusso_inverso-.htm#IX_scarico_6">
+    <param name="Name" value="Flusso inverso#IX_scarico_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Flusso_inverso-.htm#IX_scarico_7">
+    <param name="Name" value="Flusso inverso#IX_scarico_8">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Flusso_inverso-.htm#IX_scarico_8">
+    <param name="Name" value="Smaltimento / scarico">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Smaltimento_scarico-.htm">
+    <param name="Name" value="Smaltimento / scarico#IX_scarico_10">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Smaltimento_scarico-.htm#IX_scarico_10">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Scelta del programma">
+    <param name="Name" value="Struttura del menu#IX_Scelta_del_programma">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Struttura_del_menu-.htm#IX_Scelta_del_programma">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="schede d'alimentazione">
+    <param name="Name" value="Armadi elettrici#IX_schede_d_alimentazione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Armadi_elettrici-.htm#IX_schede_d_alimentazione">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="schema generale">
+    <param name="Name" value="Introduzione#IX_schema_generale">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Introduzione-.htm#IX_schema_generale">
+    <param name="Name" value="Panoramica dell'hardware della macchina EDT#IX_schema_generale_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Panoramica_dell_hardware_della_macchina_EDT-.htm#IX_schema_generale_1">
+    <param name="Name" value="Pannello di controllo dell'impianto dielettrico e pannello sinottico#IX_schema_generale_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pannello_di_controllo_dell_impianto_dielettrico_e_pannello_sinottico-.htm#IX_schema_generale_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="schermata Home">
+    <param name="Name" value="Accensione della macchina EDT#IX_schermata_Home">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_della_macchina_EDT-.htm#IX_schermata_Home">
+    <param name="Name" value="Accensione della macchina EDT#IX_schermata_Home_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_della_macchina_EDT-.htm#IX_schermata_Home_1">
+    <param name="Name" value="Interfaccia utente#IX_schermata_Home_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Interfaccia_utente-.htm#IX_schermata_Home_2">
+    <param name="Name" value="Sequenza semiautomatica#IX_schermata_Home_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Sequenza_semiautomatica-.htm#IX_schermata_Home_3">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="schermo">
+    <param name="Name" value="Console operatore#IX_schermo">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Console_operatore-.htm#IX_schermo">
+    <param name="Name" value="Accensione della macchina EDT#IX_schermo_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_della_macchina_EDT-.htm#IX_schermo_1">
+    <param name="Name" value="Interfaccia utente#IX_schermo_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Interfaccia_utente-.htm#IX_schermo_2">
+    <param name="Name" value="Disposizione dello schermo#IX_schermo_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Disposizione_dello_schermo-.htm#IX_schermo_3">
+    <param name="Name" value="Disposizione dello schermo#IX_schermo_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Disposizione_dello_schermo-.htm#IX_schermo_4">
+    <param name="Name" value="Struttura del menu#IX_schermo_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Struttura_del_menu-.htm#IX_schermo_5">
+    <param name="Name" value="Struttura del menu#IX_schermo_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Struttura_del_menu-.htm#IX_schermo_6">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_schermo_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_schermo_7">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_schermo_8">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_schermo_8">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_schermo_9">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_schermo_9">
+    <param name="Name" value="Guida#IX_schermo_10">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Guida-.htm#IX_schermo_10">
+    <param name="Name" value="Guida#IX_schermo_11">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Guida-.htm#IX_schermo_11">
+    <param name="Name" value="Guida#IX_schermo_12">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Guida-.htm#IX_schermo_12">
+    <param name="Name" value="Elementi e convenzioni dell'interfaccia utente#IX_schermo_13">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Elementi_e_convenzioni_dell_interfaccia_utente-.htm#IX_schermo_13">
+    <param name="Name" value="Comandi#IX_schermo_14">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Comandi-.htm#IX_schermo_14">
+    <param name="Name" value="Pulsanti di selezione#IX_schermo_15">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pulsanti_di_selezione-.htm#IX_schermo_15">
+    <param name="Name" value="Pulsanti di selezione#IX_schermo_16">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pulsanti_di_selezione-.htm#IX_schermo_16">
+    <param name="Name" value="Indicatori#IX_schermo_17">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Indicatori-.htm#IX_schermo_17">
+    <param name="Name" value="Indicatori#IX_schermo_18">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Indicatori-.htm#IX_schermo_18">
+    <param name="Name" value="Selezione della modalità di carico#IX_schermo_19">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Selezione_della_modalit_di_carico-6xc.htm#IX_schermo_19">
+    <param name="Name" value="Selezione della modalità di carico#IX_schermo_20">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Selezione_della_modalit_di_carico-6xc.htm#IX_schermo_20">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_schermo_21">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_schermo_21">
+    <param name="Name" value="Visualizzazione del carico, ricarico e scarico#IX_schermo_22">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Visualizzazione_del_carico_ricarico_e_scarico-.htm#IX_schermo_22">
+    <param name="Name" value="Visualizzazione del carico, ricarico e scarico#IX_schermo_23">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Visualizzazione_del_carico_ricarico_e_scarico-.htm#IX_schermo_23">
+    <param name="Name" value="Funzionamento automatico#IX_schermo_24">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_automatico-.htm#IX_schermo_24">
+    <param name="Name" value="Esecuzione automatica, visualizzazione della posizione#IX_schermo_25">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Esecuzione_automatica_visualizzazione_della_posizione-.htm#IX_schermo_25">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="scintille">
+    <param name="Name" value="Descrizione generale della macchina EDT#IX_scintille">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Descrizione_generale_della_macchina_EDT-.htm#IX_scintille">
+    <param name="Name" value="Descrizione generale della macchina EDT#IX_scintille_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Descrizione_generale_della_macchina_EDT-.htm#IX_scintille_1">
+    <param name="Name" value="Impianto del fluido dielettrico#IX_scintille_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_del_fluido_dielettrico-.htm#IX_scintille_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Scopo">
+    <param name="Name" value="Scopo del manuale">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Scopo_del_manuale-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="segnalazione di eventuali guasti">
+    <param name="Name" value="Struttura del menu#IX_segnalazione_di">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Struttura_del_menu-.htm#IX_segnalazione_di">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Segnalazione di guasti">
+    <param name="Name" value="Segnalazione di guasti e guida">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="semiautomatica">
+    <param name="Name" value="Riferimenti e impostazioni della macchina EDT#IX_semiautomatica">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Riferimenti_e_impostazioni_della_macchina_EDT-.htm#IX_semiautomatica">
+    <param name="Name" value="Requisiti della modalità semiautomatica">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Requisiti_della_modalit_semiautomatica-wcd.htm">
+    <param name="Name" value="Requisiti della modalità semiautomatica#IX_semiautomatica_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Requisiti_della_modalit_semiautomatica-wcd.htm#IX_semiautomatica_2">
+    <param name="Name" value="Sequenza semiautomatica">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Sequenza_semiautomatica-.htm">
+    <param name="Name" value="Sequenza semiautomatica#IX_semiautomatica_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Sequenza_semiautomatica-.htm#IX_semiautomatica_4">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_semiautomatica_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_semiautomatica_5">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="sensori">
+    <param name="Name" value="Impianto del fluido dielettrico#IX_sensori">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_del_fluido_dielettrico-.htm#IX_sensori">
+    <param name="Name" value="Attivazione manuale#IX_sensori_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Attivazione_manuale-.htm#IX_sensori_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="sensori di sicurezza antincendio">
+    <param name="Name" value="Attivazione manuale#IX_sensori_di_sicurezza">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Attivazione_manuale-.htm#IX_sensori_di_sicurezza">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="sequenza di avvio">
+    <param name="Name" value="Accensione della macchina EDT#IX_sequenza_di_avvio">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_della_macchina_EDT-.htm#IX_sequenza_di_avvio">
+    <param name="Name" value="Accensione della macchina EDT#IX_sequenza_di_avvio_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_della_macchina_EDT-.htm#IX_sequenza_di_avvio_1">
+    <param name="Name" value="Accensione della macchina EDT#IX_sequenza_di_avvio_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_della_macchina_EDT-.htm#IX_sequenza_di_avvio_2">
+    <param name="Name" value="Emergenza / Operazioni di sicurezza#IX_sequenza_di_avvio_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Emergenza_Operazioni_di_sicurezza-.htm#IX_sequenza_di_avvio_3">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="serbatoio">
+    <param name="Name" value="Impianto dielettrico#IX_serbatoio">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_dielettrico-.htm#IX_serbatoio">
+    <param name="Name" value="Impianto dielettrico#IX_serbatoio_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_dielettrico-.htm#IX_serbatoio_1">
+    <param name="Name" value="Impianto dielettrico#IX_serbatoio_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_dielettrico-.htm#IX_serbatoio_2">
+    <param name="Name" value="Modalità manuale e automatica#IX_serbatoio_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale_e_automatica-0jc.htm#IX_serbatoio_3">
+    <param name="Name" value="Modalità manuale#IX_serbatoio_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale-djb.htm#IX_serbatoio_4">
+    <param name="Name" value="Modalità manuale#IX_serbatoio_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale-djb.htm#IX_serbatoio_5">
+    <param name="Name" value="Trasferimento / riempimento#IX_serbatoio_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Trasferimento_riempimento-.htm#IX_serbatoio_6">
+    <param name="Name" value="Filtro#IX_serbatoio_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Filtro-.htm#IX_serbatoio_7">
+    <param name="Name" value="Filtro#IX_serbatoio_8">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Filtro-.htm#IX_serbatoio_8">
+    <param name="Name" value="Flusso inverso#IX_serbatoio_9">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Flusso_inverso-.htm#IX_serbatoio_9">
+    <param name="Name" value="Miscela#IX_serbatoio_10">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Miscela-.htm#IX_serbatoio_10">
+    <param name="Name" value="Miscela#IX_serbatoio_11">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Miscela-.htm#IX_serbatoio_11">
+    <param name="Name" value="Pronto#IX_serbatoio_12">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pronto-.htm#IX_serbatoio_12">
+    <param name="Name" value="Gestione dello scambio dei serbatoi#IX_serbatoio_13">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Gestione_dello_scambio_dei_serbatoi-.htm#IX_serbatoio_13">
+    <param name="Name" value="Gestione dello scambio dei serbatoi#IX_serbatoio_14">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Gestione_dello_scambio_dei_serbatoi-.htm#IX_serbatoio_14">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="servocomandi">
+    <param name="Name" value="Introduzione#IX_servocomandi">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Introduzione-.htm#IX_servocomandi">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="servomotori">
+    <param name="Name" value="Stazioni di zigrinatura#IX_servomotori">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura-.htm#IX_servomotori">
+    <param name="Name" value="Stazioni di zigrinatura#IX_servomotori_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura-.htm#IX_servomotori_1">
+    <param name="Name" value="Armadi elettrici#IX_servomotori_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Armadi_elettrici-.htm#IX_servomotori_2">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_servomotori_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_servomotori_3">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_servomotori_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_servomotori_4">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_servomotori_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_servomotori_5">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_servomotori_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_servomotori_6">
+    <param name="Name" value="Funzionamento illustrato#IX_servomotori_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_illustrato-.htm#IX_servomotori_7">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Sistema antincendio">
+    <param name="Name" value="Sistema antincendio">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Sistema_antincendio-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="sistema di controllo del computer">
+    <param name="Name" value="Manipolatore cilindro#IX_sistema_di_controllo_del">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Manipolatore_cilindro-.htm#IX_sistema_di_controllo_del">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="sistema di estrazione dei fumi">
+    <param name="Name" value="Introduzione#IX_sistema_di_estrazione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Introduzione-.htm#IX_sistema_di_estrazione">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="sistema elettronico">
+    <param name="Name" value="Armadi elettrici#IX_sistema_elettronico">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Armadi_elettrici-.htm#IX_sistema_elettronico">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="sito">
+    <param name="Name" value="Scopo del manuale#IX_sito">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Scopo_del_manuale-.htm#IX_sito">
+    <param name="Name" value="Introduzione#IX_sito_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Introduzione-.htm#IX_sito_1">
+    <param name="Name" value="Console operatore#IX_sito_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Console_operatore-.htm#IX_sito_2">
+    <param name="Name" value="Misurazione della zigrinatura sulla superficie del cilindro#IX_sito_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Misurazione_della_zigrinatura_sulla_superficie_del_cilindro-.htm#IX_sito_3">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="slitta">
+    <param name="Name" value="Armadi elettrici#IX_slitta">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Armadi_elettrici-.htm#IX_slitta">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_slitta_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_slitta_1">
+    <param name="Name" value="Iconografia#IX_slitta_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia2-.htm#IX_slitta_2">
+    <param name="Name" value="Iconografia#IX_slitta_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia2-.htm#IX_slitta_3">
+    <param name="Name" value="Requisiti della modalità semiautomatica#IX_slitta_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Requisiti_della_modalit_semiautomatica-wcd.htm#IX_slitta_4">
+    <param name="Name" value="Funzionamento illustrato#IX_slitta_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_illustrato-.htm#IX_slitta_5">
+    <param name="Name" value="Funzionamento illustrato#IX_slitta_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_illustrato-.htm#IX_slitta_6">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_slitta_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_slitta_7">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_slitta_8">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_slitta_8">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_slitta_9">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_slitta_9">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_slitta_10">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_slitta_10">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Smaltimento">
+    <param name="Name" value="Smaltimento / scarico">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Smaltimento_scarico-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Soglia">
+    <param name="Name" value="Iconografia#IX_Soglia">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia2-.htm#IX_Soglia">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="soglia del servomotore">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_soglia_del_servomotore">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_soglia_del_servomotore">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="sollevamento">
+    <param name="Name" value="Riferimenti e impostazioni della macchina EDT#IX_sollevamento">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Riferimenti_e_impostazioni_della_macchina_EDT-.htm#IX_sollevamento">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_sollevamento_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_sollevamento_1">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_sollevamento_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_sollevamento_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="sottomenu">
+    <param name="Name" value="Disposizione dello schermo#IX_sottomenu">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Disposizione_dello_schermo-.htm#IX_sottomenu">
+    <param name="Name" value="Struttura del menu#IX_sottomenu_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Struttura_del_menu-.htm#IX_sottomenu_1">
+    <param name="Name" value="Struttura del menu#IX_sottomenu_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Struttura_del_menu-.htm#IX_sottomenu_2">
+    <param name="Name" value="Modalità di navigazione#IX_sottomenu_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_di_navigazione-k2b.htm#IX_sottomenu_3">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="sottosistemi">
+    <param name="Name" value="Segnalazione di guasti e guida#IX_sottosistemi">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm#IX_sottosistemi">
+    <param name="Name" value="Riferimenti e impostazioni della macchina EDT#IX_sottosistemi_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Riferimenti_e_impostazioni_della_macchina_EDT-.htm#IX_sottosistemi_1">
+    <param name="Name" value="Posizioni e direzioni negative e positive di spostamento#IX_sottosistemi_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Posizioni_e_direzioni_negative_e_positive_di_spostamento-.htm#IX_sottosistemi_2">
+    <param name="Name" value="Visualizzazione del carico, ricarico e scarico#IX_sottosistemi_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Visualizzazione_del_carico_ricarico_e_scarico-.htm#IX_sottosistemi_3">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Sovraccarico">
+    <param name="Name" value="Indicatori#IX_Sovraccarico">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Indicatori-.htm#IX_Sovraccarico">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="staccando">
+    <param name="Name" value="Flusso inverso#IX_staccando">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Flusso_inverso-.htm#IX_staccando">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="stato numerico">
+    <param name="Name" value="Indicatori#IX_stato_numerico">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Indicatori-.htm#IX_stato_numerico">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="stazione di zigrinatura">
+    <param name="Name" value="Introduzione#IX_stazione_di_zigrinatura">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Introduzione-.htm#IX_stazione_di_zigrinatura">
+    <param name="Name" value="Stazioni di zigrinatura#IX_stazione_di_zigrinatura_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura-.htm#IX_stazione_di_zigrinatura_1">
+    <param name="Name" value="Stazioni di zigrinatura#IX_stazione_di_zigrinatura_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura-.htm#IX_stazione_di_zigrinatura_2">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_stazione_di_zigrinatura_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_stazione_di_zigrinatura_3">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_stazione_di_zigrinatura_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_stazione_di_zigrinatura_4">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_stazione_di_zigrinatura_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_stazione_di_zigrinatura_5">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_stazione_di_zigrinatura_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_stazione_di_zigrinatura_6">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_stazione_di_zigrinatura_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_stazione_di_zigrinatura_7">
+    <param name="Name" value="Iconografia#IX_stazione_di_zigrinatura_8">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia1-.htm#IX_stazione_di_zigrinatura_8">
+    <param name="Name" value="Iconografia#IX_stazione_di_zigrinatura_9">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia1-.htm#IX_stazione_di_zigrinatura_9">
+    <param name="Name" value="Iconografia#IX_stazione_di_zigrinatura_10">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia2-.htm#IX_stazione_di_zigrinatura_10">
+    <param name="Name" value="Iconografia#IX_stazione_di_zigrinatura_11">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia2-.htm#IX_stazione_di_zigrinatura_11">
+    <param name="Name" value="Funzionamento illustrato#IX_stazione_di_zigrinatura_12">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_illustrato-.htm#IX_stazione_di_zigrinatura_12">
+    <param name="Name" value="Funzionamento illustrato#IX_stazione_di_zigrinatura_13">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_illustrato-.htm#IX_stazione_di_zigrinatura_13">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_stazione_di_zigrinatura_14">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_stazione_di_zigrinatura_14">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_stazione_di_zigrinatura_15">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_stazione_di_zigrinatura_15">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_stazione_di_zigrinatura_16">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_stazione_di_zigrinatura_16">
+    <param name="Name" value="Impianto dielettrico#IX_stazione_di_zigrinatura_17">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_dielettrico-.htm#IX_stazione_di_zigrinatura_17">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Stazioni">
+    <param name="Name" value="Stazioni di zigrinatura">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura-.htm">
+    <param name="Name" value="Stazioni di zigrinatura">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura1-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="sul lato sinistro">
+    <param name="Name" value="Altre convenzioni dell'interfaccia utente#IX_sul_lato_sinistro">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Altre_convenzioni_dell_interfaccia_utente-.htm#IX_sul_lato_sinistro">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_sul_lato_sinistro_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_sul_lato_sinistro_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="superficie di appoggio">
+    <param name="Name" value="Manipolatore cilindro#IX_superficie_di_appoggio">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Manipolatore_cilindro-.htm#IX_superficie_di_appoggio">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="surriscaldamento">
+    <param name="Name" value="Manipolatore cilindro#IX_surriscaldamento">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Manipolatore_cilindro-.htm#IX_surriscaldamento">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="tappi">
+    <param name="Name" value="Stazioni di zigrinatura#IX_tappi">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura1-.htm#IX_tappi">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="tastiera">
+    <param name="Name" value="Console operatore#IX_tastiera">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Console_operatore-.htm#IX_tastiera">
+    <param name="Name" value="Console operatore#IX_tastiera_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Console_operatore-.htm#IX_tastiera_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="tecnici del servizio assistenza">
+    <param name="Name" value="Ambiti esclusi dal manuale#IX_tecnici_del_servizio">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Ambiti_esclusi_dal_manuale-.htm#IX_tecnici_del_servizio">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="tempo di attività">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_tempo_di_attivit">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_tempo_di_attivit">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="tempo di spegnimento">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_tempo_di_spegnimento">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_tempo_di_spegnimento">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Tempo rimanente">
+    <param name="Name" value="Iconografia#IX_Tempo_rimanente">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia2-.htm#IX_Tempo_rimanente">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="tensione">
+    <param name="Name" value="Descrizione generale della macchina EDT#IX_tensione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Descrizione_generale_della_macchina_EDT-.htm#IX_tensione">
+    <param name="Name" value="Riferimenti e impostazioni della macchina EDT#IX_tensione_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Riferimenti_e_impostazioni_della_macchina_EDT-.htm#IX_tensione_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="testa">
+    <param name="Name" value="Introduzione#IX_testa">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Introduzione-.htm#IX_testa">
+    <param name="Name" value="Panoramica dell'hardware della macchina EDT#IX_testa_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Panoramica_dell_hardware_della_macchina_EDT-.htm#IX_testa_1">
+    <param name="Name" value="Panoramica dell'hardware della macchina EDT#IX_testa_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Panoramica_dell_hardware_della_macchina_EDT-.htm#IX_testa_2">
+    <param name="Name" value="Panoramica dell'hardware della macchina EDT#IX_testa_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Panoramica_dell_hardware_della_macchina_EDT-.htm#IX_testa_3">
+    <param name="Name" value="Posizioni e direzioni negative e positive di spostamento#IX_testa_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Posizioni_e_direzioni_negative_e_positive_di_spostamento-.htm#IX_testa_4">
+    <param name="Name" value="Posizioni e direzioni negative e positive di spostamento#IX_testa_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Posizioni_e_direzioni_negative_e_positive_di_spostamento-.htm#IX_testa_5">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_testa_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_testa_6">
+    <param name="Name" value="Funzionamento della macchina in modalità console#IX_testa_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm#IX_testa_7">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_testa_8">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_testa_8">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_testa_9">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_testa_9">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_testa_10">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_testa_10">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_testa_11">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_testa_11">
+    <param name="Name" value="Requisiti della modalità semiautomatica#IX_testa_12">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Requisiti_della_modalit_semiautomatica-wcd.htm#IX_testa_12">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="touch-screen">
+    <param name="Name" value="Console operatore#IX_touch_screen">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Console_operatore-.htm#IX_touch_screen">
+    <param name="Name" value="Principi e descrizione generale#IX_touch_screen_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Principi_e_descrizione_generale-.htm#IX_touch_screen_1">
+    <param name="Name" value="Modalità di navigazione#IX_touch_screen_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_di_navigazione-k2b.htm#IX_touch_screen_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="tubazione">
+    <param name="Name" value="Filtro#IX_tubazione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Filtro-.htm#IX_tubazione">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="tubi">
+    <param name="Name" value="Attivazione manuale#IX_tubi">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Attivazione_manuale-.htm#IX_tubi">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="ugelli">
+    <param name="Name" value="Attivazione manuale#IX_ugelli">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Attivazione_manuale-.htm#IX_ugelli">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="unità a se stante">
+    <param name="Name" value="Impianto del fluido dielettrico#IX_unit_a_se_stante">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_del_fluido_dielettrico-.htm#IX_unit_a_se_stante">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="unità antincendio">
+    <param name="Name" value="Introduzione#IX_unit_antincendio">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Introduzione-.htm#IX_unit_antincendio">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="valore target">
+    <param name="Name" value="Colorazione dei numeri#IX_valore_target">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Colorazione_dei_numeri-.htm#IX_valore_target">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="valori di misurazione">
+    <param name="Name" value="Posizioni e direzioni negative e positive di spostamento#IX_valori_di_misurazione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Posizioni_e_direzioni_negative_e_positive_di_spostamento-.htm#IX_valori_di_misurazione">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="valvole">
+    <param name="Name" value="Accensione della macchina EDT#IX_valvole">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_della_macchina_EDT-.htm#IX_valvole">
+    <param name="Name" value="Pannello di controllo dell'impianto dielettrico e pannello sinottico#IX_valvole_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Pannello_di_controllo_dell_impianto_dielettrico_e_pannello_sinottico-.htm#IX_valvole_1">
+    <param name="Name" value="Gestione dello scambio dei serbatoi#IX_valvole_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Gestione_dello_scambio_dei_serbatoi-.htm#IX_valvole_2">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="valvole di ritorno">
+    <param name="Name" value="Gestione dello scambio dei serbatoi#IX_valvole_di_ritorno">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Gestione_dello_scambio_dei_serbatoi-.htm#IX_valvole_di_ritorno">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="variazione percentuale">
+    <param name="Name" value="Rilevamento tipico del cilindro#IX_variazione_percentuale">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Rilevamento_tipico_del_cilindro-.htm#IX_variazione_percentuale">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="vasca">
+    <param name="Name" value="Stazioni di zigrinatura#IX_vasca">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura-.htm#IX_vasca">
+    <param name="Name" value="Iconografia#IX_vasca_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia2-.htm#IX_vasca_1">
+    <param name="Name" value="Iconografia#IX_vasca_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Iconografia2-.htm#IX_vasca_2">
+    <param name="Name" value="Funzionamento illustrato#IX_vasca_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_illustrato-.htm#IX_vasca_3">
+    <param name="Name" value="Sistema antincendio#IX_vasca_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Sistema_antincendio-.htm#IX_vasca_4">
+    <param name="Name" value="Stazioni di zigrinatura#IX_vasca_5">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura1-.htm#IX_vasca_5">
+    <param name="Name" value="Stazioni di zigrinatura#IX_vasca_6">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura1-.htm#IX_vasca_6">
+    <param name="Name" value="Stazioni di zigrinatura#IX_vasca_7">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura1-.htm#IX_vasca_7">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Veloce">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_Veloce">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_Veloce">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_Veloce_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_Veloce_1">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_Veloce_2">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_Veloce_2">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_Veloce_3">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_Veloce_3">
+    <param name="Name" value="Tabella che descrive i pulsanti di modalità sul comando mobile utente#IX_Veloce_4">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_che_descrive_i_pulsanti_di_modalit_sul_comando_mobile_utente-qpf.htm#IX_Veloce_4">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="velocità di rotazione">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_velocit_di_rotazione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_velocit_di_rotazione">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Velocità trasversale">
+    <param name="Name" value="Punti di impostazione semiautomatici#IX_Velocit_trasversale">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Punti_di_impostazione_semiautomatici-.htm#IX_Velocit_trasversale">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Verifiche quotidiane di manutenzione">
+    <param name="Name" value="Verifiche quotidiane di manutenzione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Verifiche_quotidiane_di_manutenzione-.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="zigrinatura sulla superficie del cilindro">
+    <param name="Name" value="Misurazione della zigrinatura sulla superficie del cilindro">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Misurazione_della_zigrinatura_sulla_superficie_del_cilindro-.htm">
+    <param name="Name" value="Misurazione della zigrinatura sulla superficie del cilindro#IX_zigrinatura_sulla_1">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Misurazione_della_zigrinatura_sulla_superficie_del_cilindro-.htm#IX_zigrinatura_sulla_1">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="zigrinature di superficie">
+    <param name="Name" value="Scopo del manuale#IX_zigrinature_di_superficie">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Scopo_del_manuale-.htm#IX_zigrinature_di_superficie">
+  </object>
+</ul>
+</html>

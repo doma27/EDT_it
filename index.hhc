@@ -1,0 +1,344 @@
+﻿<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="FrameName" value="bsscright">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Tabella delle figure">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Tabella_delle_figure1-.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Scopo del manuale">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Scopo_del_manuale-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Ambiti esclusi dal manuale">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Ambiti_esclusi_dal_manuale-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Convenzioni utilizzate nel manuale">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Convenzioni_utilizzate_nel_manuale-.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Introduzione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Introduzione-.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Descrizione generale della macchina EDT">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Descrizione_generale_della_macchina_EDT-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Panoramica dell'hardware della macchina EDT">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Panoramica_dell_hardware_della_macchina_EDT-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Manipolatore cilindro">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Manipolatore_cilindro-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Stazioni di zigrinatura">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Armadi elettrici">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Armadi_elettrici-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Impianto del fluido dielettrico">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_del_fluido_dielettrico-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Console operatore">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Console_operatore-.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Accensione e spegnimento">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_e_spegnimento-.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Accensione della macchina EDT">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Accensione_della_macchina_EDT-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Emergenza / Operazioni di sicurezza">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Emergenza_Operazioni_di_sicurezza-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Spegnimento della macchina EDT">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Spegnimento_della_macchina_EDT-.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Utilizzo del pulsante di emergenza">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Utilizzo_del_pulsante_di_emergenza-.htm">
+      </object>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Interfaccia utente">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Interfaccia_utente-.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Principi e descrizione generale">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Principi_e_descrizione_generale-.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Disposizione dello schermo">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Disposizione_dello_schermo-.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Struttura del menu">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Struttura_del_menu-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Segnalazione di guasti e guida">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Segnalazione_di_guasti_e_guida-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Guida">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Guida-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Elementi e convenzioni dell'interfaccia utente">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Elementi_e_convenzioni_dell_interfaccia_utente-.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Comandi">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Comandi-.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Pulsanti di selezione">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Pulsanti_di_selezione-.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Indicatori">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Indicatori-.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Altre convenzioni dell'interfaccia utente">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Altre_convenzioni_dell_interfaccia_utente-.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Modalità di navigazione">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_di_navigazione-k2b.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Selezione della modalità di carico">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Selezione_della_modalit_di_carico-6xc.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Riferimenti e impostazioni della macchina EDT">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Riferimenti_e_impostazioni_della_macchina_EDT-.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Posizioni e direzioni negative e positive di spostamento">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Posizioni_e_direzioni_negative_e_positive_di_spostamento-.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Funzionamento della modalità console">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_modalit_console-s3c.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Funzionamento della macchina in modalità console">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_della_macchina_in_modalit_console-11d.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Utilizzo del comando mobile">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Utilizzo_del_comando_mobile-.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ciclo di funzionamento normale quotidiano">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Ciclo_di_funzionamento_normale_quotidiano-.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Visualizzazione del carico, ricarico e scarico">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Visualizzazione_del_carico_ricarico_e_scarico-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Funzionamento automatico">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_automatico-.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Esecuzione automatica, visualizzazione della posizione">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Esecuzione_automatica_visualizzazione_della_posizione-.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Esecuzione automatica, visualizzazione delle informazioni">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Esecuzione_automatica_visualizzazione_delle_informazioni-.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Postambolo automatico">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Postambolo_automatico-.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Visualizzazione dei risultati">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Visualizzazione_dei_risultati-.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Funzionamento semiautomatico">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_semiautomatico-.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Requisiti della modalità semiautomatica">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Requisiti_della_modalit_semiautomatica-wcd.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Sequenza semiautomatica">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Sequenza_semiautomatica-.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Sequenza di funzionamento">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Sequenza_di_funzionamento-.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Funzionamento illustrato">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Funzionamento_illustrato-.htm">
+      </object>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Sistema antincendio">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Sistema_antincendio-.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Attivazione manuale">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Attivazione_manuale-.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Impianto dielettrico">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Impianto_dielettrico-.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Pannello di controllo dell'impianto dielettrico e pannello sinottico">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Pannello_di_controllo_dell_impianto_dielettrico_e_pannello_sinottico-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Schema (P&amp;ID)">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Schema_P_ID-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Modalità manuale e automatica">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale_e_automatica-0jc.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Modalità manuale">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_manuale-djb.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Modalità automatica">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Modalit_automatica-lrb.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Operazioni di filtraggio">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Operazioni_di_filtraggio-.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Trasferimento / riempimento">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Trasferimento_riempimento-.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Filtro">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Filtro-.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Flusso inverso">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Flusso_inverso-.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Smaltimento / scarico">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Smaltimento_scarico-.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Miscela">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Miscela-.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Pronto">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Pronto-.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Gestione dello scambio dei serbatoi">
+        <param name="Local" value="OpMan/OpMan_RH_IT/Gestione_dello_scambio_dei_serbatoi-.htm">
+      </object>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Misurazione della zigrinatura sulla superficie del cilindro">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Misurazione_della_zigrinatura_sulla_superficie_del_cilindro-.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Misurazioni periodiche">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Misurazioni_periodiche-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Rilevamenti statistici">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Rilevamenti_statistici-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Rilevamento tipico del cilindro">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Rilevamento_tipico_del_cilindro-.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="I parametri di rugosità sono definiti nella norma ISO">
+        <param name="Local" value="OpMan/OpMan_RH_IT/I_parametri_di_rugosit_sono_definiti_nella_norma_ISO_4287-zte.htm">
+      </object>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Verifiche quotidiane di manutenzione">
+    <param name="Local" value="OpMan/OpMan_RH_IT/Verifiche_quotidiane_di_manutenzione-.htm">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Ambiente della macchina">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Ambiente_della_macchina-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Fermi">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Fermi-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Stazioni di zigrinatura">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura1-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Estrazione dei fumi">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Estrazione_dei_fumi-.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Sistema dielettrico">
+      <param name="Local" value="OpMan/OpMan_RH_IT/Sistema_dielettrico-.htm">
+    </object>
+    </ul>
+</ul>
+</html>

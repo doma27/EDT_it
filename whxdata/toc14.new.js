@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Pannello di controllo dell'impianto dielettrico e pannello sinottico","url":"OpMan/OpMan_RH_IT/Pannello_di_controllo_dell_impianto_dielettrico_e_pannello_sinottico-.htm"},{"type":"item","name":"Schema (P&ID)","url":"OpMan/OpMan_RH_IT/Schema_P_ID-.htm"},{"type":"book","name":"Modalità manuale e automatica","key":"toc15","url":"OpMan/OpMan_RH_IT/Modalit_manuale_e_automatica-0jc.htm"},{"type":"book","name":"Operazioni di filtraggio","key":"toc16","url":"OpMan/OpMan_RH_IT/Operazioni_di_filtraggio-.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

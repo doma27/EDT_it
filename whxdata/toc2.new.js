@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Descrizione generale della macchina EDT","url":"OpMan/OpMan_RH_IT/Descrizione_generale_della_macchina_EDT-.htm"},{"type":"item","name":"Panoramica dell'hardware della macchina EDT","url":"OpMan/OpMan_RH_IT/Panoramica_dell_hardware_della_macchina_EDT-.htm"},{"type":"item","name":"Manipolatore cilindro","url":"OpMan/OpMan_RH_IT/Manipolatore_cilindro-.htm"},{"type":"item","name":"Stazioni di zigrinatura","url":"OpMan/OpMan_RH_IT/Stazioni_di_zigrinatura-.htm"},{"type":"item","name":"Armadi elettrici","url":"OpMan/OpMan_RH_IT/Armadi_elettrici-.htm"},{"type":"item","name":"Impianto del fluido dielettrico","url":"OpMan/OpMan_RH_IT/Impianto_del_fluido_dielettrico-.htm"},{"type":"item","name":"Console operatore","url":"OpMan/OpMan_RH_IT/Console_operatore-.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();

@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc.js\"  name=\"Sistema antincendio\" url=\"OpMan/OpMan_RH_IT/Sistema_antincendio-.htm\"><item name=\"Attivazione manuale\" url=\"OpMan/OpMan_RH_IT/Attivazione_manuale-.htm\" /></data>";

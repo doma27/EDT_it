@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc17.js\"  name=\"Rilevamento tipico del cilindro\" url=\"OpMan/OpMan_RH_IT/Rilevamento_tipico_del_cilindro-.htm\"><item name=\"I parametri di rugosità sono definiti nella norma ISO\" url=\"OpMan/OpMan_RH_IT/I_parametri_di_rugosit_sono_definiti_nella_norma_ISO_4287-zte.htm\" /></data>";

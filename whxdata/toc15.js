@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc14.js\"  name=\"Modalità manuale e automatica\" url=\"OpMan/OpMan_RH_IT/Modalit_manuale_e_automatica-0jc.htm\"><item name=\"Modalità manuale\" url=\"OpMan/OpMan_RH_IT/Modalit_manuale-djb.htm\" /><item name=\"Modalità automatica\" url=\"OpMan/OpMan_RH_IT/Modalit_automatica-lrb.htm\" /></data>";

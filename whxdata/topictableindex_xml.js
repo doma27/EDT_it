@@ -1,0 +1,1 @@
+gXMLBuffer="<?xml version=\"1.0\" encoding=\"UTF-8\"?><cki><ck fm=\"Accensione della macchina EDT\" to=\"Miscela\" num=\"41\"/><ck fm=\"Misurazione della zigrinatura sulla superficie del cilindro\" to=\"Verifiche quotidiane di manutenzione\" num=\"39\"/><ck fm=\"Visualizzazione dei risultati\" to=\"Mechanical_Drawings_and_Parts_Lists.pdf\" num=\"7\"/></cki>";

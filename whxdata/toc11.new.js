@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Esecuzione automatica, visualizzazione della posizione","url":"OpMan/OpMan_RH_IT/Esecuzione_automatica_visualizzazione_della_posizione-.htm"},{"type":"item","name":"Esecuzione automatica, visualizzazione delle informazioni","url":"OpMan/OpMan_RH_IT/Esecuzione_automatica_visualizzazione_delle_informazioni-.htm"},{"type":"item","name":"Postambolo automatico","url":"OpMan/OpMan_RH_IT/Postambolo_automatico-.htm"},{"type":"item","name":"Visualizzazione dei risultati","url":"OpMan/OpMan_RH_IT/Visualizzazione_dei_risultati-.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();
